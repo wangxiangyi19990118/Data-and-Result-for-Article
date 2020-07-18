@@ -1,0 +1,1377 @@
+train nums:200,val nums:200
+2020-06-23 11:17:42.198459: Step [0]  train Loss : 1.579823, training accuracy :  0.6875
+2020-06-23 11:17:51.262210: Step [0]  val Loss : 1.415448, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:17:51.567408: Step [1]  train Loss : 1.241990, training accuracy :  0.3125
+2020-06-23 11:17:56.272901: Step [1]  val Loss : 1.395145, val accuracy :  0.495，val  precision :  0.497462,val recall:  0.98
+2020-06-23 11:17:56.580106: Step [2]  train Loss : 1.433843, training accuracy :  0.625
+2020-06-23 11:18:01.286399: Step [2]  val Loss : 1.424072, val accuracy :  0.5，val  precision :  0.5,val recall:  1
+2020-06-23 11:18:01.593767: Step [3]  train Loss : 1.676814, training accuracy :  0.625
+2020-06-23 11:18:06.302221: Step [3]  val Loss : 1.400434, val accuracy :  0.5，val  precision :  0.5,val recall:  1
+2020-06-23 11:18:06.607152: Step [4]  train Loss : 1.452810, training accuracy :  0.625
+2020-06-23 11:18:11.284118: Step [4]  val Loss : 1.471299, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:18:11.588774: Step [5]  train Loss : 1.448893, training accuracy :  0.5
+2020-06-23 11:18:16.264464: Step [5]  val Loss : 1.407881, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:18:16.570110: Step [6]  train Loss : 1.484597, training accuracy :  0.5625
+2020-06-23 11:18:21.350599: Step [6]  val Loss : 1.833358, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:18:21.658191: Step [7]  train Loss : 1.326770, training accuracy :  0.5
+2020-06-23 11:18:26.476716: Step [7]  val Loss : 1.664642, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:18:26.782265: Step [8]  train Loss : 1.276174, training accuracy :  0.375
+2020-06-23 11:18:31.595478: Step [8]  val Loss : 1.732627, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:18:31.897521: Step [9]  train Loss : 1.753856, training accuracy :  0.75
+2020-06-23 11:18:36.638822: Step [9]  val Loss : 2.327998, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:18:36.943738: Step [10]  train Loss : 1.595433, training accuracy :  0.5
+2020-06-23 11:18:41.730638: Step [10]  val Loss : 1.508386, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:18:42.031848: Step [11]  train Loss : 1.192635, training accuracy :  0.3125
+2020-06-23 11:18:46.739460: Step [11]  val Loss : 1.394981, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 11:18:47.040977: Step [12]  train Loss : 1.588033, training accuracy :  0.625
+2020-06-23 11:18:51.732166: Step [12]  val Loss : 1.848503, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:18:52.032505: Step [13]  train Loss : 1.391848, training accuracy :  0.375
+2020-06-23 11:18:56.808886: Step [13]  val Loss : 1.619793, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:18:57.109331: Step [14]  train Loss : 1.391019, training accuracy :  0.375
+2020-06-23 11:19:01.855366: Step [14]  val Loss : 1.612577, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:19:02.156428: Step [15]  train Loss : 1.246804, training accuracy :  0.625
+2020-06-23 11:19:06.845892: Step [15]  val Loss : 1.386212, val accuracy :  0.65，val  precision :  0.588235,val recall:  1
+2020-06-23 11:19:07.151482: Step [16]  train Loss : 1.520575, training accuracy :  0.5
+2020-06-23 11:19:11.822052: Step [16]  val Loss : 1.589808, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:19:12.122696: Step [17]  train Loss : 1.350185, training accuracy :  0.75
+2020-06-23 11:19:16.793830: Step [17]  val Loss : 2.201249, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:19:17.099666: Step [18]  train Loss : 1.068008, training accuracy :  0.75
+2020-06-23 11:19:21.795337: Step [18]  val Loss : 2.104402, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:19:22.099819: Step [19]  train Loss : 1.097794, training accuracy :  0.5625
+2020-06-23 11:19:26.790407: Step [19]  val Loss : 1.778207, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:19:27.091615: Step [20]  train Loss : 0.989129, training accuracy :  0.5
+2020-06-23 11:19:31.850972: Step [20]  val Loss : 1.699749, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:19:32.155785: Step [21]  train Loss : 1.233533, training accuracy :  0.4375
+2020-06-23 11:19:36.893467: Step [21]  val Loss : 1.787065, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:19:37.197081: Step [22]  train Loss : 1.112994, training accuracy :  0.4375
+2020-06-23 11:19:41.875966: Step [22]  val Loss : 1.796142, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:19:42.174613: Step [23]  train Loss : 1.312564, training accuracy :  0.625
+2020-06-23 11:19:46.957807: Step [23]  val Loss : 2.288804, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:19:47.258937: Step [24]  train Loss : 1.296214, training accuracy :  0.5
+2020-06-23 11:19:51.996128: Step [24]  val Loss : 1.654208, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:19:52.297962: Step [25]  train Loss : 1.285280, training accuracy :  0.625
+2020-06-23 11:19:57.038021: Step [25]  val Loss : 2.274796, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:19:57.340416: Step [26]  train Loss : 1.418261, training accuracy :  0.6875
+2020-06-23 11:20:02.030083: Step [26]  val Loss : 2.958206, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:02.329195: Step [27]  train Loss : 1.272064, training accuracy :  0.5
+2020-06-23 11:20:07.032993: Step [27]  val Loss : 2.608981, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:07.334973: Step [28]  train Loss : 0.986543, training accuracy :  0.4375
+2020-06-23 11:20:12.084207: Step [28]  val Loss : 2.370789, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:12.384817: Step [29]  train Loss : 1.546972, training accuracy :  0.4375
+2020-06-23 11:20:17.166011: Step [29]  val Loss : 2.388078, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:17.471235: Step [30]  train Loss : 1.110983, training accuracy :  0.4375
+2020-06-23 11:20:22.204241: Step [30]  val Loss : 2.499030, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:22.504941: Step [31]  train Loss : 1.285188, training accuracy :  0.4375
+2020-06-23 11:20:27.197067: Step [31]  val Loss : 2.936862, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:27.498198: Step [32]  train Loss : 1.350337, training accuracy :  0.375
+2020-06-23 11:20:32.330382: Step [32]  val Loss : 3.017086, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:32.630687: Step [33]  train Loss : 1.341150, training accuracy :  0.4375
+2020-06-23 11:20:37.410865: Step [33]  val Loss : 3.080041, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:37.709779: Step [34]  train Loss : 1.028385, training accuracy :  0.4375
+2020-06-23 11:20:42.441260: Step [34]  val Loss : 3.144102, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:42.740516: Step [35]  train Loss : 1.365895, training accuracy :  0.5
+2020-06-23 11:20:47.528012: Step [35]  val Loss : 3.845106, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:47.830871: Step [36]  train Loss : 1.327477, training accuracy :  0.5
+2020-06-23 11:20:52.591807: Step [36]  val Loss : 3.468498, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:52.894112: Step [37]  train Loss : 1.239296, training accuracy :  0.625
+2020-06-23 11:20:57.639053: Step [37]  val Loss : 3.774209, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:20:57.937149: Step [38]  train Loss : 2.100029, training accuracy :  0.1875
+2020-06-23 11:21:02.631652: Step [38]  val Loss : 1.458233, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 11:21:02.932431: Step [39]  train Loss : 1.132457, training accuracy :  0.25
+2020-06-23 11:21:07.656191: Step [39]  val Loss : 1.490792, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:21:07.960300: Step [40]  train Loss : 1.198915, training accuracy :  0.4375
+2020-06-23 11:21:12.713697: Step [40]  val Loss : 1.843304, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:21:13.014524: Step [41]  train Loss : 1.525984, training accuracy :  0.75
+2020-06-23 11:21:17.775961: Step [41]  val Loss : 3.193217, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:21:18.076779: Step [42]  train Loss : 1.506080, training accuracy :  0.4375
+2020-06-23 11:21:22.837981: Step [42]  val Loss : 2.524241, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:21:23.137988: Step [43]  train Loss : 1.256461, training accuracy :  0.4375
+2020-06-23 11:21:27.909616: Step [43]  val Loss : 2.602645, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:21:28.213626: Step [44]  train Loss : 1.284806, training accuracy :  0.4375
+2020-06-23 11:21:32.939442: Step [44]  val Loss : 3.224559, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:21:33.238017: Step [45]  train Loss : 1.178562, training accuracy :  0.625
+2020-06-23 11:21:37.942087: Step [45]  val Loss : 3.079239, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:21:38.240981: Step [46]  train Loss : 1.153129, training accuracy :  0.5
+2020-06-23 11:21:42.921911: Step [46]  val Loss : 2.799354, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:21:43.220604: Step [47]  train Loss : 1.337877, training accuracy :  0.6875
+2020-06-23 11:21:47.953383: Step [47]  val Loss : 3.605013, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:21:48.252464: Step [48]  train Loss : 1.319136, training accuracy :  0.5
+2020-06-23 11:21:52.951248: Step [48]  val Loss : 2.361754, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:21:53.250153: Step [49]  train Loss : 1.144595, training accuracy :  0.25
+2020-06-23 11:21:58.007180: Step [49]  val Loss : 1.569152, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 11:21:58.308090: Step [50]  train Loss : 1.052686, training accuracy :  0.375
+2020-06-23 11:22:03.088329: Step [50]  val Loss : 1.565319, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 11:22:03.389040: Step [51]  train Loss : 1.424726, training accuracy :  0.5625
+2020-06-23 11:22:08.164619: Step [51]  val Loss : 2.212898, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:22:08.465997: Step [52]  train Loss : 1.044466, training accuracy :  0.5
+2020-06-23 11:22:13.188078: Step [52]  val Loss : 2.379853, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:22:13.490586: Step [53]  train Loss : 0.984059, training accuracy :  0.625
+2020-06-23 11:22:18.175279: Step [53]  val Loss : 2.506781, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:22:18.476441: Step [54]  train Loss : 1.084531, training accuracy :  0.5
+2020-06-23 11:22:23.242337: Step [54]  val Loss : 2.206350, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:22:23.543788: Step [55]  train Loss : 0.976730, training accuracy :  0.5625
+2020-06-23 11:22:28.287148: Step [55]  val Loss : 2.224358, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:22:28.589087: Step [56]  train Loss : 0.948667, training accuracy :  0.5
+2020-06-23 11:22:33.305748: Step [56]  val Loss : 1.503911, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 11:22:33.607324: Step [57]  train Loss : 1.358958, training accuracy :  0.5
+2020-06-23 11:22:38.375830: Step [57]  val Loss : 2.490998, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:22:38.681765: Step [58]  train Loss : 1.159526, training accuracy :  0.5625
+2020-06-23 11:22:43.392121: Step [58]  val Loss : 2.549624, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:22:43.695584: Step [59]  train Loss : 1.213968, training accuracy :  0.5
+2020-06-23 11:22:48.398226: Step [59]  val Loss : 2.391336, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:22:48.699337: Step [60]  train Loss : 1.046013, training accuracy :  0.375
+2020-06-23 11:22:53.379210: Step [60]  val Loss : 2.152595, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:22:53.681796: Step [61]  train Loss : 1.319156, training accuracy :  0.5
+2020-06-23 11:22:58.374704: Step [61]  val Loss : 3.059762, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:22:58.675252: Step [62]  train Loss : 1.078043, training accuracy :  0.5
+2020-06-23 11:23:03.354629: Step [62]  val Loss : 2.555186, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:23:03.655683: Step [63]  train Loss : 1.269882, training accuracy :  0.5
+2020-06-23 11:23:08.344194: Step [63]  val Loss : 4.259349, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:23:08.645922: Step [64]  train Loss : 1.688003, training accuracy :  0.4375
+2020-06-23 11:23:13.335815: Step [64]  val Loss : 1.503627, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 11:23:13.638024: Step [65]  train Loss : 1.247598, training accuracy :  0.5625
+2020-06-23 11:23:18.368058: Step [65]  val Loss : 2.332024, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:23:18.669315: Step [66]  train Loss : 0.971140, training accuracy :  0.5625
+2020-06-23 11:23:23.447416: Step [66]  val Loss : 1.911346, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:23:23.749524: Step [67]  train Loss : 1.319416, training accuracy :  0.375
+2020-06-23 11:23:28.565378: Step [67]  val Loss : 1.545381, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 11:23:28.864613: Step [68]  train Loss : 1.161414, training accuracy :  0.4375
+2020-06-23 11:23:33.660386: Step [68]  val Loss : 2.046867, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:23:33.961573: Step [69]  train Loss : 1.399109, training accuracy :  0.8125
+2020-06-23 11:23:38.744228: Step [69]  val Loss : 3.770654, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:23:39.045118: Step [70]  train Loss : 1.129869, training accuracy :  0.5625
+2020-06-23 11:23:43.812128: Step [70]  val Loss : 3.132165, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:23:44.117444: Step [71]  train Loss : 1.012299, training accuracy :  0.4375
+2020-06-23 11:23:48.828922: Step [71]  val Loss : 2.594164, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:23:49.129609: Step [72]  train Loss : 1.097956, training accuracy :  0.4375
+2020-06-23 11:23:53.828103: Step [72]  val Loss : 2.679098, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:23:54.129839: Step [73]  train Loss : 1.033352, training accuracy :  0.5625
+2020-06-23 11:23:58.863894: Step [73]  val Loss : 1.564026, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:23:59.164748: Step [74]  train Loss : 1.242311, training accuracy :  0.6875
+2020-06-23 11:24:03.881530: Step [74]  val Loss : 2.711813, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:24:04.182020: Step [75]  train Loss : 1.526651, training accuracy :  0.75
+2020-06-23 11:24:08.872081: Step [75]  val Loss : 1.404546, val accuracy :  0.515，val  precision :  0.507614,val recall:  1
+2020-06-23 11:24:09.173697: Step [76]  train Loss : 1.087987, training accuracy :  0.375
+2020-06-23 11:24:13.880054: Step [76]  val Loss : 1.423336, val accuracy :  0.51，val  precision :  0.75,val recall:  0.03
+2020-06-23 11:24:14.180459: Step [77]  train Loss : 1.001586, training accuracy :  0.4375
+2020-06-23 11:24:18.881919: Step [77]  val Loss : 1.539754, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 11:24:19.183526: Step [78]  train Loss : 1.106783, training accuracy :  0.5
+2020-06-23 11:24:23.909571: Step [78]  val Loss : 1.988643, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:24:24.211255: Step [79]  train Loss : 1.205641, training accuracy :  0.6875
+2020-06-23 11:24:28.910423: Step [79]  val Loss : 3.235240, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:24:29.212369: Step [80]  train Loss : 1.356795, training accuracy :  0.375
+2020-06-23 11:24:33.898754: Step [80]  val Loss : 1.633040, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 11:24:34.199663: Step [81]  train Loss : 1.045159, training accuracy :  0.5625
+2020-06-23 11:24:38.874160: Step [81]  val Loss : 2.004590, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:24:39.174648: Step [82]  train Loss : 0.923963, training accuracy :  0.4375
+2020-06-23 11:24:43.858769: Step [82]  val Loss : 1.769143, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:24:44.160855: Step [83]  train Loss : 1.059957, training accuracy :  0.5
+2020-06-23 11:24:48.850052: Step [83]  val Loss : 2.310802, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:24:49.150728: Step [84]  train Loss : 1.119798, training accuracy :  0.4375
+2020-06-23 11:24:53.861840: Step [84]  val Loss : 2.566670, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:24:54.163500: Step [85]  train Loss : 1.142342, training accuracy :  0.6875
+2020-06-23 11:24:58.866658: Step [85]  val Loss : 2.041198, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:24:59.167415: Step [86]  train Loss : 0.847722, training accuracy :  0.5625
+2020-06-23 11:25:03.857054: Step [86]  val Loss : 2.201035, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:25:04.158650: Step [87]  train Loss : 0.994082, training accuracy :  0.875
+2020-06-23 11:25:08.936204: Step [87]  val Loss : 3.378596, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:25:09.238456: Step [88]  train Loss : 1.117791, training accuracy :  0.5
+2020-06-23 11:25:14.021987: Step [88]  val Loss : 2.018549, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:25:14.323892: Step [89]  train Loss : 0.973757, training accuracy :  0.4375
+2020-06-23 11:25:19.112324: Step [89]  val Loss : 1.612438, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:25:19.413078: Step [90]  train Loss : 0.853604, training accuracy :  0.375
+2020-06-23 11:25:24.206782: Step [90]  val Loss : 1.397911, val accuracy :  0.47，val  precision :  0.2,val recall:  0.02
+2020-06-23 11:25:24.508088: Step [91]  train Loss : 0.840356, training accuracy :  0.5625
+2020-06-23 11:25:29.353122: Step [91]  val Loss : 1.412902, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 11:25:29.655785: Step [92]  train Loss : 1.065766, training accuracy :  0.375
+2020-06-23 11:25:34.484316: Step [92]  val Loss : 2.363459, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:25:34.782794: Step [93]  train Loss : 0.908719, training accuracy :  0.4375
+2020-06-23 11:25:39.568001: Step [93]  val Loss : 1.718913, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:25:39.869197: Step [94]  train Loss : 0.988568, training accuracy :  0.5
+2020-06-23 11:25:44.657589: Step [94]  val Loss : 2.020550, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:25:44.958875: Step [95]  train Loss : 1.171642, training accuracy :  0.5
+2020-06-23 11:25:49.685124: Step [95]  val Loss : 2.008312, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:25:49.986968: Step [96]  train Loss : 0.875910, training accuracy :  0.625
+2020-06-23 11:25:54.718404: Step [96]  val Loss : 2.044459, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:25:55.019452: Step [97]  train Loss : 0.882146, training accuracy :  0.6875
+2020-06-23 11:25:59.719964: Step [97]  val Loss : 2.446633, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:26:00.021389: Step [98]  train Loss : 1.003587, training accuracy :  0.625
+2020-06-23 11:26:04.738782: Step [98]  val Loss : 1.385798, val accuracy :  0.555，val  precision :  0.529412,val recall:  0.99
+2020-06-23 11:26:05.040597: Step [99]  train Loss : 1.086344, training accuracy :  0.75
+2020-06-23 11:26:09.787586: Step [99]  val Loss : 1.557970, val accuracy :  0.495，val  precision :  0.497487,val recall:  0.99
+2020-06-23 11:26:10.089933: Step [100]  train Loss : 1.052152, training accuracy :  0.5625
+2020-06-23 11:26:14.877697: Step [100]  val Loss : 1.500942, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:26:15.179160: Step [101]  train Loss : 1.062653, training accuracy :  0.625
+2020-06-23 11:26:19.944979: Step [101]  val Loss : 1.893178, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:26:20.247773: Step [102]  train Loss : 0.906057, training accuracy :  0.5625
+2020-06-23 11:26:24.995971: Step [102]  val Loss : 1.656773, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:26:25.296515: Step [103]  train Loss : 0.871082, training accuracy :  0.5
+2020-06-23 11:26:30.041554: Step [103]  val Loss : 1.725703, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:26:30.341213: Step [104]  train Loss : 0.976003, training accuracy :  0.3125
+2020-06-23 11:26:35.037390: Step [104]  val Loss : 1.507355, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:26:35.337179: Step [105]  train Loss : 1.199397, training accuracy :  0.625
+2020-06-23 11:26:40.024164: Step [105]  val Loss : 2.551188, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:26:40.323685: Step [106]  train Loss : 0.839720, training accuracy :  0.4375
+2020-06-23 11:26:45.016425: Step [106]  val Loss : 2.022702, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:26:45.315638: Step [107]  train Loss : 1.013310, training accuracy :  0.5
+2020-06-23 11:26:50.004349: Step [107]  val Loss : 2.476532, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:26:50.307317: Step [108]  train Loss : 0.925546, training accuracy :  0.375
+2020-06-23 11:26:55.051895: Step [108]  val Loss : 1.656584, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:26:55.351627: Step [109]  train Loss : 0.913775, training accuracy :  0.625
+2020-06-23 11:27:00.127823: Step [109]  val Loss : 1.471437, val accuracy :  0.495，val  precision :  0.497487,val recall:  0.99
+2020-06-23 11:27:00.429417: Step [110]  train Loss : 1.146185, training accuracy :  0.4375
+2020-06-23 11:27:05.134348: Step [110]  val Loss : 1.559246, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:27:05.436129: Step [111]  train Loss : 0.871965, training accuracy :  0.25
+2020-06-23 11:27:10.109694: Step [111]  val Loss : 1.419624, val accuracy :  0.32，val  precision :  0.0714286,val recall:  0.03
+2020-06-23 11:27:10.411146: Step [112]  train Loss : 0.810492, training accuracy :  0.4375
+2020-06-23 11:27:15.079687: Step [112]  val Loss : 1.438428, val accuracy :  0.425，val  precision :  0.105263,val recall:  0.02
+2020-06-23 11:27:15.378502: Step [113]  train Loss : 0.760857, training accuracy :  0.5
+2020-06-23 11:27:20.069474: Step [113]  val Loss : 1.481196, val accuracy :  0.48，val  precision :  0.166667,val recall:  0.01
+2020-06-23 11:27:20.371792: Step [114]  train Loss : 0.795140, training accuracy :  0.5
+2020-06-23 11:27:25.099215: Step [114]  val Loss : 1.468817, val accuracy :  0.47，val  precision :  0.125,val recall:  0.01
+2020-06-23 11:27:25.401083: Step [115]  train Loss : 0.842174, training accuracy :  0.5625
+2020-06-23 11:27:30.100355: Step [115]  val Loss : 2.131424, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:27:30.400936: Step [116]  train Loss : 0.746012, training accuracy :  0.625
+2020-06-23 11:27:35.124084: Step [116]  val Loss : 2.089665, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:27:35.423946: Step [117]  train Loss : 0.899168, training accuracy :  0.5
+2020-06-23 11:27:40.195027: Step [117]  val Loss : 2.384738, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:27:40.495337: Step [118]  train Loss : 0.750893, training accuracy :  0.625
+2020-06-23 11:27:45.187838: Step [118]  val Loss : 2.154791, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:27:45.490298: Step [119]  train Loss : 0.758184, training accuracy :  0.4375
+2020-06-23 11:27:50.255532: Step [119]  val Loss : 2.015008, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:27:50.558446: Step [120]  train Loss : 0.778106, training accuracy :  0.6875
+2020-06-23 11:27:55.286455: Step [120]  val Loss : 2.048623, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:27:55.587450: Step [121]  train Loss : 0.750741, training accuracy :  0.6875
+2020-06-23 11:28:00.276588: Step [121]  val Loss : 1.989448, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:28:00.576955: Step [122]  train Loss : 0.837460, training accuracy :  0.5
+2020-06-23 11:28:05.252810: Step [122]  val Loss : 1.755413, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:28:05.553539: Step [123]  train Loss : 0.954922, training accuracy :  0.3125
+2020-06-23 11:28:10.227961: Step [123]  val Loss : 1.819113, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:28:10.529753: Step [124]  train Loss : 0.861623, training accuracy :  0.5
+2020-06-23 11:28:15.204310: Step [124]  val Loss : 1.501373, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:28:15.505198: Step [125]  train Loss : 0.739411, training accuracy :  0.4375
+2020-06-23 11:28:20.181363: Step [125]  val Loss : 1.493029, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:28:20.482027: Step [126]  train Loss : 0.765404, training accuracy :  0.4375
+2020-06-23 11:28:25.168177: Step [126]  val Loss : 1.498574, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:28:25.469525: Step [127]  train Loss : 0.744684, training accuracy :  0.4375
+2020-06-23 11:28:30.149167: Step [127]  val Loss : 1.484233, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:28:30.450533: Step [128]  train Loss : 0.800790, training accuracy :  0.3125
+2020-06-23 11:28:35.139924: Step [128]  val Loss : 1.423540, val accuracy :  0.37，val  precision :  0.0357143,val recall:  0.01
+2020-06-23 11:28:35.441479: Step [129]  train Loss : 0.991466, training accuracy :  0.6875
+2020-06-23 11:28:40.114322: Step [129]  val Loss : 1.949273, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:28:40.414582: Step [130]  train Loss : 0.730964, training accuracy :  0.5625
+2020-06-23 11:28:45.093276: Step [130]  val Loss : 1.908877, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:28:45.395759: Step [131]  train Loss : 0.885191, training accuracy :  0.3125
+2020-06-23 11:28:50.093569: Step [131]  val Loss : 1.418296, val accuracy :  0.385，val  precision :  0.04,val recall:  0.01
+2020-06-23 11:28:50.394944: Step [132]  train Loss : 0.751939, training accuracy :  0.4375
+2020-06-23 11:28:55.072089: Step [132]  val Loss : 1.428831, val accuracy :  0.415，val  precision :  0.0526316,val recall:  0.01
+2020-06-23 11:28:55.372932: Step [133]  train Loss : 0.817905, training accuracy :  0.5625
+2020-06-23 11:29:00.076639: Step [133]  val Loss : 1.621877, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:29:00.377477: Step [134]  train Loss : 1.035079, training accuracy :  0.6875
+2020-06-23 11:29:05.061455: Step [134]  val Loss : 1.663820, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:29:05.362491: Step [135]  train Loss : 0.806857, training accuracy :  0.5625
+2020-06-23 11:29:10.079539: Step [135]  val Loss : 1.604241, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:29:10.381348: Step [136]  train Loss : 0.978797, training accuracy :  0.625
+2020-06-23 11:29:15.063432: Step [136]  val Loss : 1.490153, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:29:15.365171: Step [137]  train Loss : 0.933593, training accuracy :  0.5625
+2020-06-23 11:29:20.047847: Step [137]  val Loss : 1.403713, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:29:20.348315: Step [138]  train Loss : 1.079828, training accuracy :  0.75
+2020-06-23 11:29:25.039798: Step [138]  val Loss : 1.529308, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:29:25.339995: Step [139]  train Loss : 0.847232, training accuracy :  0.625
+2020-06-23 11:29:30.027556: Step [139]  val Loss : 1.471953, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:29:30.329191: Step [140]  train Loss : 0.800143, training accuracy :  0.625
+2020-06-23 11:29:35.012938: Step [140]  val Loss : 1.461569, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:29:35.314229: Step [141]  train Loss : 1.039619, training accuracy :  0.625
+2020-06-23 11:29:39.997452: Step [141]  val Loss : 1.505394, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:29:40.299869: Step [142]  train Loss : 0.908758, training accuracy :  0.625
+2020-06-23 11:29:44.974271: Step [142]  val Loss : 1.764104, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:29:45.275211: Step [143]  train Loss : 0.859758, training accuracy :  0.75
+2020-06-23 11:29:49.960193: Step [143]  val Loss : 1.986166, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:29:50.260863: Step [144]  train Loss : 0.812514, training accuracy :  0.6875
+2020-06-23 11:29:54.941352: Step [144]  val Loss : 2.573386, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:29:55.241867: Step [145]  train Loss : 0.825698, training accuracy :  0.5
+2020-06-23 11:29:59.928781: Step [145]  val Loss : 2.115030, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:30:00.230735: Step [146]  train Loss : 1.047876, training accuracy :  0.4375
+2020-06-23 11:30:04.909440: Step [146]  val Loss : 1.618979, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:30:05.210572: Step [147]  train Loss : 0.791463, training accuracy :  0.5
+2020-06-23 11:30:09.886462: Step [147]  val Loss : 1.956080, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:30:10.187971: Step [148]  train Loss : 0.831479, training accuracy :  0.5
+2020-06-23 11:30:14.878303: Step [148]  val Loss : 1.543411, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:30:15.178447: Step [149]  train Loss : 1.075147, training accuracy :  0.5625
+2020-06-23 11:30:19.854365: Step [149]  val Loss : 2.476229, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:30:20.155321: Step [150]  train Loss : 0.947154, training accuracy :  0.375
+2020-06-23 11:30:24.842408: Step [150]  val Loss : 1.916036, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:30:25.149708: Step [151]  train Loss : 1.017238, training accuracy :  0.625
+2020-06-23 11:30:29.840425: Step [151]  val Loss : 2.643152, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:30:30.141219: Step [152]  train Loss : 1.710147, training accuracy :  0.875
+2020-06-23 11:30:34.833576: Step [152]  val Loss : 1.389066, val accuracy :  0.56，val  precision :  0.531915,val recall:  1
+2020-06-23 11:30:35.135641: Step [153]  train Loss : 1.294695, training accuracy :  0.625
+2020-06-23 11:30:39.823735: Step [153]  val Loss : 1.986938, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:30:40.125254: Step [154]  train Loss : 0.769167, training accuracy :  0.4375
+2020-06-23 11:30:44.923679: Step [154]  val Loss : 2.012817, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:30:45.226070: Step [155]  train Loss : 0.815382, training accuracy :  0.625
+2020-06-23 11:30:50.001844: Step [155]  val Loss : 2.167434, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:30:50.302688: Step [156]  train Loss : 0.961565, training accuracy :  0.6875
+2020-06-23 11:30:55.076545: Step [156]  val Loss : 1.553825, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:30:55.378825: Step [157]  train Loss : 1.156367, training accuracy :  0.4375
+2020-06-23 11:31:00.166274: Step [157]  val Loss : 1.604304, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:31:00.468581: Step [158]  train Loss : 0.842640, training accuracy :  0.5
+2020-06-23 11:31:05.241184: Step [158]  val Loss : 1.485207, val accuracy :  0.49，val  precision :  0.25,val recall:  0.01
+2020-06-23 11:31:05.541940: Step [159]  train Loss : 0.807823, training accuracy :  0.3125
+2020-06-23 11:31:10.247118: Step [159]  val Loss : 1.431566, val accuracy :  0.41，val  precision :  0.05,val recall:  0.01
+2020-06-23 11:31:10.547254: Step [160]  train Loss : 0.786105, training accuracy :  0.5
+2020-06-23 11:31:15.227001: Step [160]  val Loss : 1.403029, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:31:15.525813: Step [161]  train Loss : 0.793854, training accuracy :  0.5
+2020-06-23 11:31:20.212500: Step [161]  val Loss : 1.390572, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:31:20.512961: Step [162]  train Loss : 0.727272, training accuracy :  0.4375
+2020-06-23 11:31:25.227959: Step [162]  val Loss : 1.391273, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:31:25.527560: Step [163]  train Loss : 0.733458, training accuracy :  0.5625
+2020-06-23 11:31:30.293556: Step [163]  val Loss : 1.390723, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:31:30.595354: Step [164]  train Loss : 0.790049, training accuracy :  0.4375
+2020-06-23 11:31:35.275833: Step [164]  val Loss : 1.437021, val accuracy :  0.435，val  precision :  0.0666667,val recall:  0.01
+2020-06-23 11:31:35.578581: Step [165]  train Loss : 0.777432, training accuracy :  0.5625
+2020-06-23 11:31:40.274570: Step [165]  val Loss : 1.449786, val accuracy :  0.46，val  precision :  0.1,val recall:  0.01
+2020-06-23 11:31:40.575564: Step [166]  train Loss : 0.804214, training accuracy :  0.5625
+2020-06-23 11:31:45.254670: Step [166]  val Loss : 1.398267, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:31:45.555887: Step [167]  train Loss : 0.768678, training accuracy :  0.5
+2020-06-23 11:31:50.240396: Step [167]  val Loss : 1.454223, val accuracy :  0.46，val  precision :  0.1,val recall:  0.01
+2020-06-23 11:31:50.543539: Step [168]  train Loss : 0.867273, training accuracy :  0.5625
+2020-06-23 11:31:55.218892: Step [168]  val Loss : 1.443117, val accuracy :  0.505，val  precision :  0.502564,val recall:  0.98
+2020-06-23 11:31:55.520012: Step [169]  train Loss : 0.798305, training accuracy :  0.5625
+2020-06-23 11:32:00.199531: Step [169]  val Loss : 1.404415, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:32:00.500761: Step [170]  train Loss : 0.728938, training accuracy :  0.5625
+2020-06-23 11:32:05.189443: Step [170]  val Loss : 1.394671, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:32:05.490695: Step [171]  train Loss : 0.797124, training accuracy :  0.5
+2020-06-23 11:32:10.177856: Step [171]  val Loss : 1.419090, val accuracy :  0.335，val  precision :  0.0540541,val recall:  0.02
+2020-06-23 11:32:10.480651: Step [172]  train Loss : 0.732425, training accuracy :  0.5625
+2020-06-23 11:32:15.184914: Step [172]  val Loss : 1.394263, val accuracy :  0.515，val  precision :  0.50838,val recall:  0.91
+2020-06-23 11:32:15.486263: Step [173]  train Loss : 0.781377, training accuracy :  0.6875
+2020-06-23 11:32:20.195153: Step [173]  val Loss : 1.450287, val accuracy :  0.455，val  precision :  0.0909091,val recall:  0.01
+2020-06-23 11:32:20.496352: Step [174]  train Loss : 0.984232, training accuracy :  0.5
+2020-06-23 11:32:25.196468: Step [174]  val Loss : 1.434547, val accuracy :  0.505，val  precision :  0.502564,val recall:  0.98
+2020-06-23 11:32:25.499931: Step [175]  train Loss : 0.946750, training accuracy :  0.625
+2020-06-23 11:32:30.293420: Step [175]  val Loss : 1.704197, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:32:30.594556: Step [176]  train Loss : 0.999925, training accuracy :  0.6875
+2020-06-23 11:32:35.357064: Step [176]  val Loss : 1.394754, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:32:35.657601: Step [177]  train Loss : 0.748599, training accuracy :  0.625
+2020-06-23 11:32:40.373532: Step [177]  val Loss : 1.437656, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:32:40.673062: Step [178]  train Loss : 0.738392, training accuracy :  0.4375
+2020-06-23 11:32:45.361169: Step [178]  val Loss : 1.422999, val accuracy :  0.495，val  precision :  0.497462,val recall:  0.98
+2020-06-23 11:32:45.660105: Step [179]  train Loss : 0.843636, training accuracy :  0.4375
+2020-06-23 11:32:50.336843: Step [179]  val Loss : 1.393222, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:32:50.635444: Step [180]  train Loss : 0.854566, training accuracy :  0.625
+2020-06-23 11:32:55.349123: Step [180]  val Loss : 1.396761, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:32:55.648411: Step [181]  train Loss : 0.726944, training accuracy :  0.5
+2020-06-23 11:33:00.322827: Step [181]  val Loss : 1.403945, val accuracy :  0.53，val  precision :  0.515789,val recall:  0.98
+2020-06-23 11:33:00.623166: Step [182]  train Loss : 0.763589, training accuracy :  0.5625
+2020-06-23 11:33:05.337265: Step [182]  val Loss : 1.454782, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:33:05.636317: Step [183]  train Loss : 0.728934, training accuracy :  0.4375
+2020-06-23 11:33:10.326116: Step [183]  val Loss : 1.453643, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:33:10.625068: Step [184]  train Loss : 0.725679, training accuracy :  0.5
+2020-06-23 11:33:15.386968: Step [184]  val Loss : 1.450933, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:33:15.690141: Step [185]  train Loss : 0.766993, training accuracy :  0.6875
+2020-06-23 11:33:20.428339: Step [185]  val Loss : 1.572997, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:33:20.729049: Step [186]  train Loss : 0.716038, training accuracy :  0.5625
+2020-06-23 11:33:25.521864: Step [186]  val Loss : 1.591635, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:33:25.823315: Step [187]  train Loss : 0.779817, training accuracy :  0.375
+2020-06-23 11:33:30.661502: Step [187]  val Loss : 1.451464, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:33:30.962911: Step [188]  train Loss : 0.717392, training accuracy :  0.5625
+2020-06-23 11:33:35.727878: Step [188]  val Loss : 1.476624, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:33:36.029084: Step [189]  train Loss : 0.724856, training accuracy :  0.5
+2020-06-23 11:33:40.832335: Step [189]  val Loss : 1.426598, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:33:41.131981: Step [190]  train Loss : 0.852197, training accuracy :  0.6875
+2020-06-23 11:33:45.884658: Step [190]  val Loss : 1.390005, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:33:46.186804: Step [191]  train Loss : 0.723701, training accuracy :  0.5
+2020-06-23 11:33:50.942064: Step [191]  val Loss : 1.390040, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:33:51.242037: Step [192]  train Loss : 0.812554, training accuracy :  0.3125
+2020-06-23 11:33:55.977929: Step [192]  val Loss : 1.448958, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:33:56.278266: Step [193]  train Loss : 0.726756, training accuracy :  0.5
+2020-06-23 11:34:00.997887: Step [193]  val Loss : 1.447959, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:34:01.297872: Step [194]  train Loss : 0.726475, training accuracy :  0.625
+2020-06-23 11:34:06.014913: Step [194]  val Loss : 1.468249, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:34:06.314383: Step [195]  train Loss : 0.716871, training accuracy :  0.5625
+2020-06-23 11:34:10.998416: Step [195]  val Loss : 1.463434, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:34:11.298136: Step [196]  train Loss : 0.810377, training accuracy :  0.375
+2020-06-23 11:34:16.066045: Step [196]  val Loss : 1.392576, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:34:16.368435: Step [197]  train Loss : 0.737767, training accuracy :  0.4375
+2020-06-23 11:34:21.073135: Step [197]  val Loss : 1.397913, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:34:21.373393: Step [198]  train Loss : 0.736307, training accuracy :  0.6875
+2020-06-23 11:34:26.161210: Step [198]  val Loss : 1.400469, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:34:26.460810: Step [199]  train Loss : 0.735018, training accuracy :  0.75
+2020-06-23 11:34:31.271911: Step [199]  val Loss : 1.404989, val accuracy :  0.54，val  precision :  0.521277,val recall:  0.98
+2020-06-23 11:34:31.574041: Step [200]  train Loss : 0.712107, training accuracy :  0.5
+2020-06-23 11:34:36.284607: Step [200]  val Loss : 1.412439, val accuracy :  0.535，val  precision :  0.518519,val recall:  0.98
+2020-06-23 11:34:36.583805: Step [201]  train Loss : 0.722257, training accuracy :  0.3125
+2020-06-23 11:34:41.263641: Step [201]  val Loss : 1.409768, val accuracy :  0.54，val  precision :  0.521277,val recall:  0.98
+2020-06-23 11:34:41.563250: Step [202]  train Loss : 0.711635, training accuracy :  0.5625
+2020-06-23 11:34:46.247213: Step [202]  val Loss : 1.416004, val accuracy :  0.525，val  precision :  0.513089,val recall:  0.98
+2020-06-23 11:34:46.547798: Step [203]  train Loss : 0.776094, training accuracy :  0.4375
+2020-06-23 11:34:51.227465: Step [203]  val Loss : 1.493533, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:34:51.528955: Step [204]  train Loss : 0.779476, training accuracy :  0.4375
+2020-06-23 11:34:56.210321: Step [204]  val Loss : 1.404561, val accuracy :  0.54，val  precision :  0.521277,val recall:  0.98
+2020-06-23 11:34:56.510401: Step [205]  train Loss : 0.712010, training accuracy :  0.5625
+2020-06-23 11:35:01.181097: Step [205]  val Loss : 1.406983, val accuracy :  0.54，val  precision :  0.521277,val recall:  0.98
+2020-06-23 11:35:01.481390: Step [206]  train Loss : 0.730338, training accuracy :  0.5
+2020-06-23 11:35:06.183372: Step [206]  val Loss : 1.453624, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:35:06.481939: Step [207]  train Loss : 0.825924, training accuracy :  0.75
+2020-06-23 11:35:11.172593: Step [207]  val Loss : 1.559058, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:35:11.471715: Step [208]  train Loss : 0.742271, training accuracy :  0.5
+2020-06-23 11:35:16.233307: Step [208]  val Loss : 1.562839, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:35:16.532783: Step [209]  train Loss : 0.717215, training accuracy :  0.625
+2020-06-23 11:35:21.319802: Step [209]  val Loss : 1.593258, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:35:21.620855: Step [210]  train Loss : 0.719969, training accuracy :  0.4375
+2020-06-23 11:35:26.427881: Step [210]  val Loss : 1.575022, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:35:26.728220: Step [211]  train Loss : 0.708045, training accuracy :  0.5
+2020-06-23 11:35:31.522612: Step [211]  val Loss : 1.570081, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:35:31.823313: Step [212]  train Loss : 0.736511, training accuracy :  0.375
+2020-06-23 11:35:36.550100: Step [212]  val Loss : 1.530200, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:35:36.856232: Step [213]  train Loss : 0.748300, training accuracy :  0.5
+2020-06-23 11:35:41.533131: Step [213]  val Loss : 1.634247, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:35:41.835180: Step [214]  train Loss : 0.713911, training accuracy :  0.375
+2020-06-23 11:35:46.511180: Step [214]  val Loss : 1.617646, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:35:46.812504: Step [215]  train Loss : 0.774501, training accuracy :  0.75
+2020-06-23 11:35:51.527042: Step [215]  val Loss : 1.397180, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:35:51.828688: Step [216]  train Loss : 0.726238, training accuracy :  0.4375
+2020-06-23 11:35:56.588779: Step [216]  val Loss : 1.396939, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:35:56.890456: Step [217]  train Loss : 0.710862, training accuracy :  0.625
+2020-06-23 11:36:01.642311: Step [217]  val Loss : 1.397068, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:36:01.943569: Step [218]  train Loss : 0.706205, training accuracy :  0.5625
+2020-06-23 11:36:06.646524: Step [218]  val Loss : 1.397002, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:36:06.949945: Step [219]  train Loss : 0.747692, training accuracy :  0.625
+2020-06-23 11:36:11.637282: Step [219]  val Loss : 1.422358, val accuracy :  0.325，val  precision :  0.20339,val recall:  0.12
+2020-06-23 11:36:11.936841: Step [220]  train Loss : 0.715510, training accuracy :  0.25
+2020-06-23 11:36:16.655161: Step [220]  val Loss : 1.409066, val accuracy :  0.335，val  precision :  0.326316,val recall:  0.31
+2020-06-23 11:36:16.955129: Step [221]  train Loss : 0.710304, training accuracy :  0.4375
+2020-06-23 11:36:21.652348: Step [221]  val Loss : 1.409785, val accuracy :  0.315，val  precision :  0.277108,val recall:  0.23
+2020-06-23 11:36:21.954318: Step [222]  train Loss : 0.713127, training accuracy :  0.3125
+2020-06-23 11:36:26.737207: Step [222]  val Loss : 1.401699, val accuracy :  0.415，val  precision :  0.446541,val recall:  0.71
+2020-06-23 11:36:27.038744: Step [223]  train Loss : 0.785560, training accuracy :  0.625
+2020-06-23 11:36:31.818750: Step [223]  val Loss : 1.827129, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:36:32.118042: Step [224]  train Loss : 0.838206, training accuracy :  0.3125
+2020-06-23 11:36:36.827431: Step [224]  val Loss : 1.525614, val accuracy :  0.465，val  precision :  0.111111,val recall:  0.01
+2020-06-23 11:36:37.126833: Step [225]  train Loss : 0.750964, training accuracy :  0.3125
+2020-06-23 11:36:41.921028: Step [225]  val Loss : 1.462840, val accuracy :  0.375，val  precision :  0.037037,val recall:  0.01
+2020-06-23 11:36:42.220063: Step [226]  train Loss : 0.718895, training accuracy :  0.375
+2020-06-23 11:36:46.966982: Step [226]  val Loss : 1.466987, val accuracy :  0.38，val  precision :  0.0384615,val recall:  0.01
+2020-06-23 11:36:47.268836: Step [227]  train Loss : 0.852564, training accuracy :  0.6875
+2020-06-23 11:36:51.957170: Step [227]  val Loss : 1.420438, val accuracy :  0.535，val  precision :  0.518519,val recall:  0.98
+2020-06-23 11:36:52.257674: Step [228]  train Loss : 1.009253, training accuracy :  0.5625
+2020-06-23 11:36:56.950654: Step [228]  val Loss : 1.632031, val accuracy :  0.505，val  precision :  1,val recall:  0.01
+2020-06-23 11:36:57.250030: Step [229]  train Loss : 0.740166, training accuracy :  0.4375
+2020-06-23 11:37:01.936349: Step [229]  val Loss : 1.527722, val accuracy :  0.465，val  precision :  0.111111,val recall:  0.01
+2020-06-23 11:37:02.235718: Step [230]  train Loss : 0.721961, training accuracy :  0.5625
+2020-06-23 11:37:06.978266: Step [230]  val Loss : 1.564118, val accuracy :  0.465，val  precision :  0.111111,val recall:  0.01
+2020-06-23 11:37:07.278666: Step [231]  train Loss : 0.881500, training accuracy :  0.625
+2020-06-23 11:37:11.996140: Step [231]  val Loss : 1.711565, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:37:12.295638: Step [232]  train Loss : 0.714743, training accuracy :  0.375
+2020-06-23 11:37:17.015579: Step [232]  val Loss : 1.739163, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:37:17.317337: Step [233]  train Loss : 0.966515, training accuracy :  0.5625
+2020-06-23 11:37:22.115551: Step [233]  val Loss : 1.405968, val accuracy :  0.4，val  precision :  0.428571,val recall:  0.6
+2020-06-23 11:37:22.417221: Step [234]  train Loss : 0.725053, training accuracy :  0.75
+2020-06-23 11:37:27.207034: Step [234]  val Loss : 1.401458, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:37:27.506056: Step [235]  train Loss : 0.708103, training accuracy :  0.6875
+2020-06-23 11:37:32.228067: Step [235]  val Loss : 1.400407, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:37:32.528890: Step [236]  train Loss : 0.791687, training accuracy :  0.5625
+2020-06-23 11:37:37.297801: Step [236]  val Loss : 1.597452, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:37:37.599544: Step [237]  train Loss : 0.777651, training accuracy :  0.625
+2020-06-23 11:37:42.322341: Step [237]  val Loss : 1.508847, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:37:42.625251: Step [238]  train Loss : 0.869468, training accuracy :  0.3125
+2020-06-23 11:37:47.336139: Step [238]  val Loss : 1.524517, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:37:47.637611: Step [239]  train Loss : 0.706898, training accuracy :  0.5
+2020-06-23 11:37:52.365635: Step [239]  val Loss : 1.522962, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:37:52.670504: Step [240]  train Loss : 0.710208, training accuracy :  0.5
+2020-06-23 11:37:57.452916: Step [240]  val Loss : 1.527729, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:37:57.755787: Step [241]  train Loss : 0.715137, training accuracy :  0.4375
+2020-06-23 11:38:02.543407: Step [241]  val Loss : 1.550062, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:38:02.845434: Step [242]  train Loss : 1.645177, training accuracy :  0.875
+2020-06-23 11:38:07.584005: Step [242]  val Loss : 2.463873, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:38:07.886073: Step [243]  train Loss : 1.955153, training accuracy :  0.4375
+2020-06-23 11:38:12.559263: Step [243]  val Loss : 1.576940, val accuracy :  0.495，val  precision :  0.333333,val recall:  0.01
+2020-06-23 11:38:12.860016: Step [244]  train Loss : 0.878927, training accuracy :  0.1875
+2020-06-23 11:38:17.527853: Step [244]  val Loss : 1.452460, val accuracy :  0.44，val  precision :  0.166667,val recall:  0.03
+2020-06-23 11:38:17.829102: Step [245]  train Loss : 1.618427, training accuracy :  0.6875
+2020-06-23 11:38:22.534212: Step [245]  val Loss : 1.954150, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 11:38:22.836544: Step [246]  train Loss : 1.147273, training accuracy :  0.5
+2020-06-23 11:38:27.646120: Step [246]  val Loss : 1.379792, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:38:27.947634: Step [247]  train Loss : 0.806875, training accuracy :  0.8125
+2020-06-23 11:38:32.750880: Step [247]  val Loss : 1.377298, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:38:33.052256: Step [248]  train Loss : 0.740656, training accuracy :  0.5
+2020-06-23 11:38:37.727718: Step [248]  val Loss : 1.378014, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:38:38.028292: Step [249]  train Loss : 0.736725, training accuracy :  0.5625
+2020-06-23 11:38:42.704216: Step [249]  val Loss : 1.382140, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:38:43.005991: Step [250]  train Loss : 0.719892, training accuracy :  0.5
+2020-06-23 11:38:47.680720: Step [250]  val Loss : 1.383745, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:38:47.981614: Step [251]  train Loss : 0.725889, training accuracy :  0.5
+2020-06-23 11:38:52.661437: Step [251]  val Loss : 1.391159, val accuracy :  0.54，val  precision :  0.521277,val recall:  0.98
+2020-06-23 11:38:52.962849: Step [252]  train Loss : 0.970755, training accuracy :  0.3125
+2020-06-23 11:38:57.670659: Step [252]  val Loss : 1.393469, val accuracy :  0.33，val  precision :  0.225806,val recall:  0.14
+2020-06-23 11:38:57.973100: Step [253]  train Loss : 0.903093, training accuracy :  0.4375
+2020-06-23 11:39:02.665352: Step [253]  val Loss : 1.523122, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:39:02.966182: Step [254]  train Loss : 0.719637, training accuracy :  0.4375
+2020-06-23 11:39:07.659058: Step [254]  val Loss : 1.498042, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:39:07.960462: Step [255]  train Loss : 0.713842, training accuracy :  0.4375
+2020-06-23 11:39:12.652667: Step [255]  val Loss : 1.500409, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:39:12.953751: Step [256]  train Loss : 0.730777, training accuracy :  0.5
+2020-06-23 11:39:17.636951: Step [256]  val Loss : 1.515556, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:39:17.938235: Step [257]  train Loss : 0.850670, training accuracy :  0.375
+2020-06-23 11:39:22.631172: Step [257]  val Loss : 1.526153, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:39:22.934058: Step [258]  train Loss : 0.715358, training accuracy :  0.5
+2020-06-23 11:39:27.656496: Step [258]  val Loss : 1.522728, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:39:27.958149: Step [259]  train Loss : 0.732999, training accuracy :  0.5625
+2020-06-23 11:39:32.736033: Step [259]  val Loss : 1.527060, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:39:33.039071: Step [260]  train Loss : 0.752198, training accuracy :  0.5
+2020-06-23 11:39:37.833286: Step [260]  val Loss : 1.543634, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:39:38.134844: Step [261]  train Loss : 0.717850, training accuracy :  0.5625
+2020-06-23 11:39:42.918769: Step [261]  val Loss : 1.572594, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:39:43.220041: Step [262]  train Loss : 0.748685, training accuracy :  0.5625
+2020-06-23 11:39:47.986836: Step [262]  val Loss : 1.628023, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:39:48.288304: Step [263]  train Loss : 0.991751, training accuracy :  0.25
+2020-06-23 11:39:53.023567: Step [263]  val Loss : 1.372217, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:39:53.325019: Step [264]  train Loss : 0.789046, training accuracy :  0.5
+2020-06-23 11:39:58.097645: Step [264]  val Loss : 1.374993, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:39:58.398767: Step [265]  train Loss : 0.824996, training accuracy :  0.3125
+2020-06-23 11:40:03.116186: Step [265]  val Loss : 1.392212, val accuracy :  0.54，val  precision :  0.521277,val recall:  0.98
+2020-06-23 11:40:03.416110: Step [266]  train Loss : 0.731209, training accuracy :  0.3125
+2020-06-23 11:40:08.172239: Step [266]  val Loss : 1.395157, val accuracy :  0.535，val  precision :  0.518519,val recall:  0.98
+2020-06-23 11:40:08.472106: Step [267]  train Loss : 0.712403, training accuracy :  0.375
+2020-06-23 11:40:13.195676: Step [267]  val Loss : 1.389490, val accuracy :  0.54，val  precision :  0.521277,val recall:  0.98
+2020-06-23 11:40:13.496258: Step [268]  train Loss : 0.716301, training accuracy :  0.375
+2020-06-23 11:40:18.206046: Step [268]  val Loss : 1.385936, val accuracy :  0.54，val  precision :  0.521277,val recall:  0.98
+2020-06-23 11:40:18.505566: Step [269]  train Loss : 0.896852, training accuracy :  0.5625
+2020-06-23 11:40:23.250766: Step [269]  val Loss : 1.497090, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:40:23.551049: Step [270]  train Loss : 0.969718, training accuracy :  0.6875
+2020-06-23 11:40:28.351455: Step [270]  val Loss : 1.537874, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:40:28.651783: Step [271]  train Loss : 0.722943, training accuracy :  0.5625
+2020-06-23 11:40:33.436211: Step [271]  val Loss : 1.509752, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:40:33.737035: Step [272]  train Loss : 0.722298, training accuracy :  0.5625
+2020-06-23 11:40:38.505497: Step [272]  val Loss : 1.540962, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:40:38.804968: Step [273]  train Loss : 0.812781, training accuracy :  0.5
+2020-06-23 11:40:43.569939: Step [273]  val Loss : 1.391950, val accuracy :  0.535，val  precision :  0.518519,val recall:  0.98
+2020-06-23 11:40:43.870940: Step [274]  train Loss : 0.735008, training accuracy :  0.625
+2020-06-23 11:40:48.683509: Step [274]  val Loss : 1.399314, val accuracy :  0.525，val  precision :  0.513089,val recall:  0.98
+2020-06-23 11:40:48.984521: Step [275]  train Loss : 0.748121, training accuracy :  0.625
+2020-06-23 11:40:53.732578: Step [275]  val Loss : 1.381570, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:40:54.032283: Step [276]  train Loss : 0.714023, training accuracy :  0.5
+2020-06-23 11:40:58.738215: Step [276]  val Loss : 1.381399, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:40:59.037888: Step [277]  train Loss : 0.866347, training accuracy :  0.625
+2020-06-23 11:41:03.753843: Step [277]  val Loss : 1.427718, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:41:04.053130: Step [278]  train Loss : 0.728987, training accuracy :  0.5
+2020-06-23 11:41:08.768215: Step [278]  val Loss : 1.425463, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:41:09.067545: Step [279]  train Loss : 0.774812, training accuracy :  0.3125
+2020-06-23 11:41:13.795790: Step [279]  val Loss : 1.408669, val accuracy :  0.495，val  precision :  0.497462,val recall:  0.98
+2020-06-23 11:41:14.095620: Step [280]  train Loss : 0.744243, training accuracy :  0.375
+2020-06-23 11:41:18.865632: Step [280]  val Loss : 1.447763, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:41:19.170820: Step [281]  train Loss : 0.768867, training accuracy :  0.5
+2020-06-23 11:41:23.954784: Step [281]  val Loss : 1.430056, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:41:24.257321: Step [282]  train Loss : 0.708259, training accuracy :  0.5
+2020-06-23 11:41:29.000589: Step [282]  val Loss : 1.423870, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:41:29.301342: Step [283]  train Loss : 0.826751, training accuracy :  0.6875
+2020-06-23 11:41:34.091003: Step [283]  val Loss : 1.450333, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:41:34.393083: Step [284]  train Loss : 0.750513, training accuracy :  0.5625
+2020-06-23 11:41:39.123420: Step [284]  val Loss : 1.402801, val accuracy :  0.5，val  precision :  0.5,val recall:  0.98
+2020-06-23 11:41:39.425638: Step [285]  train Loss : 0.717693, training accuracy :  0.5625
+2020-06-23 11:41:44.159875: Step [285]  val Loss : 1.400281, val accuracy :  0.5，val  precision :  0.5,val recall:  0.98
+2020-06-23 11:41:44.462595: Step [286]  train Loss : 0.720222, training accuracy :  0.4375
+2020-06-23 11:41:49.234276: Step [286]  val Loss : 1.396947, val accuracy :  0.505，val  precision :  0.502564,val recall:  0.98
+2020-06-23 11:41:49.533549: Step [287]  train Loss : 0.712757, training accuracy :  0.5
+2020-06-23 11:41:54.302819: Step [287]  val Loss : 1.402809, val accuracy :  0.5，val  precision :  0.5,val recall:  0.98
+2020-06-23 11:41:54.603956: Step [288]  train Loss : 0.728979, training accuracy :  0.4375
+2020-06-23 11:41:59.400781: Step [288]  val Loss : 1.438997, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:41:59.701629: Step [289]  train Loss : 0.706025, training accuracy :  0.5
+2020-06-23 11:42:04.489102: Step [289]  val Loss : 1.439498, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:42:04.790736: Step [290]  train Loss : 0.731602, training accuracy :  0.6875
+2020-06-23 11:42:09.586364: Step [290]  val Loss : 1.509873, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:42:09.889453: Step [291]  train Loss : 0.721332, training accuracy :  0.5625
+2020-06-23 11:42:14.669177: Step [291]  val Loss : 1.552816, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:42:14.970191: Step [292]  train Loss : 0.707156, training accuracy :  0.5
+2020-06-23 11:42:19.752710: Step [292]  val Loss : 1.558569, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:42:20.055533: Step [293]  train Loss : 0.706674, training accuracy :  0.5
+2020-06-23 11:42:24.821661: Step [293]  val Loss : 1.554698, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:42:25.121862: Step [294]  train Loss : 0.808955, training accuracy :  0.6875
+2020-06-23 11:42:29.903479: Step [294]  val Loss : 1.625059, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:42:30.202881: Step [295]  train Loss : 0.709716, training accuracy :  0.625
+2020-06-23 11:42:34.994066: Step [295]  val Loss : 1.614625, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:42:35.297337: Step [296]  train Loss : 0.862157, training accuracy :  0.375
+2020-06-23 11:42:40.089954: Step [296]  val Loss : 1.457711, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:42:40.392642: Step [297]  train Loss : 0.753623, training accuracy :  0.5
+2020-06-23 11:42:45.178420: Step [297]  val Loss : 1.419738, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:42:45.478983: Step [298]  train Loss : 0.793662, training accuracy :  0.5625
+2020-06-23 11:42:50.224111: Step [298]  val Loss : 1.485287, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:42:50.526599: Step [299]  train Loss : 0.715685, training accuracy :  0.4375
+2020-06-23 11:42:55.315039: Step [299]  val Loss : 1.507179, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:42:55.616177: Step [300]  train Loss : 0.727438, training accuracy :  0.5625
+2020-06-23 11:43:00.418824: Step [300]  val Loss : 1.521576, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:00.719071: Step [301]  train Loss : 0.706536, training accuracy :  0.5
+2020-06-23 11:43:05.497240: Step [301]  val Loss : 1.512762, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:05.797373: Step [302]  train Loss : 0.718290, training accuracy :  0.625
+2020-06-23 11:43:10.552074: Step [302]  val Loss : 1.546266, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:10.853573: Step [303]  train Loss : 0.711350, training accuracy :  0.4375
+2020-06-23 11:43:15.550383: Step [303]  val Loss : 1.532770, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:15.852525: Step [304]  train Loss : 0.706667, training accuracy :  0.4375
+2020-06-23 11:43:20.559015: Step [304]  val Loss : 1.530478, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:20.860863: Step [305]  train Loss : 0.712869, training accuracy :  0.5625
+2020-06-23 11:43:25.626223: Step [305]  val Loss : 1.538980, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:25.928957: Step [306]  train Loss : 0.712278, training accuracy :  0.5625
+2020-06-23 11:43:30.699292: Step [306]  val Loss : 1.545979, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:31.002038: Step [307]  train Loss : 0.825062, training accuracy :  0.6875
+2020-06-23 11:43:35.703055: Step [307]  val Loss : 1.688611, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:36.005312: Step [308]  train Loss : 0.928734, training accuracy :  0.3125
+2020-06-23 11:43:40.740935: Step [308]  val Loss : 1.549779, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:41.043872: Step [309]  train Loss : 0.837312, training accuracy :  0.75
+2020-06-23 11:43:45.841873: Step [309]  val Loss : 1.635120, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:46.143915: Step [310]  train Loss : 0.731346, training accuracy :  0.5625
+2020-06-23 11:43:50.921231: Step [310]  val Loss : 1.637595, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:51.224130: Step [311]  train Loss : 0.727086, training accuracy :  0.5
+2020-06-23 11:43:56.012004: Step [311]  val Loss : 1.594199, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:43:56.313497: Step [312]  train Loss : 0.704223, training accuracy :  0.5625
+2020-06-23 11:44:01.112152: Step [312]  val Loss : 1.591601, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:44:01.412943: Step [313]  train Loss : 0.707537, training accuracy :  0.5625
+2020-06-23 11:44:06.189407: Step [313]  val Loss : 1.580949, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:44:06.491825: Step [314]  train Loss : 0.717654, training accuracy :  0.375
+2020-06-23 11:44:11.247546: Step [314]  val Loss : 1.602363, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:44:11.548933: Step [315]  train Loss : 0.833300, training accuracy :  0.25
+2020-06-23 11:44:16.280526: Step [315]  val Loss : 1.432611, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:44:16.582890: Step [316]  train Loss : 0.753248, training accuracy :  0.375
+2020-06-23 11:44:21.331246: Step [316]  val Loss : 1.472927, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:44:21.633831: Step [317]  train Loss : 0.724644, training accuracy :  0.375
+2020-06-23 11:44:26.431192: Step [317]  val Loss : 1.472857, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:44:26.733278: Step [318]  train Loss : 0.741913, training accuracy :  0.625
+2020-06-23 11:44:31.508183: Step [318]  val Loss : 1.425909, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:44:31.809095: Step [319]  train Loss : 0.707872, training accuracy :  0.5
+2020-06-23 11:44:36.633361: Step [319]  val Loss : 1.425662, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:44:36.934735: Step [320]  train Loss : 0.711685, training accuracy :  0.4375
+2020-06-23 11:44:41.718634: Step [320]  val Loss : 1.436460, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:44:42.021092: Step [321]  train Loss : 0.708578, training accuracy :  0.5625
+2020-06-23 11:44:46.781707: Step [321]  val Loss : 1.441352, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:44:47.083561: Step [322]  train Loss : 0.735582, training accuracy :  0.5625
+2020-06-23 11:44:51.754330: Step [322]  val Loss : 1.501675, val accuracy :  0.49，val  precision :  0.494949,val recall:  0.98
+2020-06-23 11:44:52.054674: Step [323]  train Loss : 0.984566, training accuracy :  0.4375
+2020-06-23 11:44:56.800081: Step [323]  val Loss : 1.371516, val accuracy :  0.61，val  precision :  0.563218,val recall:  0.98
+2020-06-23 11:44:57.103054: Step [324]  train Loss : 0.811795, training accuracy :  0.625
+2020-06-23 11:45:01.891136: Step [324]  val Loss : 1.382682, val accuracy :  0.52，val  precision :  0.518868,val recall:  0.55
+2020-06-23 11:45:02.190452: Step [325]  train Loss : 0.707768, training accuracy :  0.5625
+2020-06-23 11:45:06.971520: Step [325]  val Loss : 1.382008, val accuracy :  0.53，val  precision :  0.527778,val recall:  0.57
+2020-06-23 11:45:07.274870: Step [326]  train Loss : 0.715060, training accuracy :  0.625
+2020-06-23 11:45:12.058650: Step [326]  val Loss : 1.374006, val accuracy :  0.62，val  precision :  0.573171,val recall:  0.94
+2020-06-23 11:45:12.360339: Step [327]  train Loss : 0.749189, training accuracy :  0.3125
+2020-06-23 11:45:17.156529: Step [327]  val Loss : 1.364162, val accuracy :  0.605，val  precision :  0.56,val recall:  0.98
+2020-06-23 11:45:17.457800: Step [328]  train Loss : 0.705058, training accuracy :  0.4375
+2020-06-23 11:45:22.243990: Step [328]  val Loss : 1.363628, val accuracy :  0.615，val  precision :  0.566474,val recall:  0.98
+2020-06-23 11:45:22.547172: Step [329]  train Loss : 0.748376, training accuracy :  0.5625
+2020-06-23 11:45:27.330419: Step [329]  val Loss : 1.363202, val accuracy :  0.6，val  precision :  0.556818,val recall:  0.98
+2020-06-23 11:45:27.631381: Step [330]  train Loss : 0.740579, training accuracy :  0.4375
+2020-06-23 11:45:32.338967: Step [330]  val Loss : 1.362741, val accuracy :  0.6，val  precision :  0.556818,val recall:  0.98
+2020-06-23 11:45:32.641473: Step [331]  train Loss : 0.708397, training accuracy :  0.625
+2020-06-23 11:45:37.351272: Step [331]  val Loss : 1.362760, val accuracy :  0.6，val  precision :  0.556818,val recall:  0.98
+2020-06-23 11:45:37.653384: Step [332]  train Loss : 0.708683, training accuracy :  0.625
+2020-06-23 11:45:42.325718: Step [332]  val Loss : 1.362719, val accuracy :  0.595，val  precision :  0.553672,val recall:  0.98
+2020-06-23 11:45:42.626918: Step [333]  train Loss : 0.709638, training accuracy :  0.75
+2020-06-23 11:45:47.304722: Step [333]  val Loss : 1.363837, val accuracy :  0.595，val  precision :  0.553672,val recall:  0.98
+2020-06-23 11:45:47.606247: Step [334]  train Loss : 0.705145, training accuracy :  0.625
+2020-06-23 11:45:52.278308: Step [334]  val Loss : 1.363894, val accuracy :  0.595，val  precision :  0.553672,val recall:  0.98
+2020-06-23 11:45:52.580532: Step [335]  train Loss : 0.707496, training accuracy :  0.4375
+2020-06-23 11:45:57.364549: Step [335]  val Loss : 1.365244, val accuracy :  0.59，val  precision :  0.550562,val recall:  0.98
+2020-06-23 11:45:57.665219: Step [336]  train Loss : 1.056807, training accuracy :  0.8125
+2020-06-23 11:46:02.383922: Step [336]  val Loss : 1.367404, val accuracy :  0.6，val  precision :  0.556818,val recall:  0.98
+2020-06-23 11:46:02.684258: Step [337]  train Loss : 0.718877, training accuracy :  0.6875
+2020-06-23 11:46:07.405998: Step [337]  val Loss : 1.364620, val accuracy :  0.595，val  precision :  0.553672,val recall:  0.98
+2020-06-23 11:46:07.705458: Step [338]  train Loss : 0.799832, training accuracy :  0.4375
+2020-06-23 11:46:12.402245: Step [338]  val Loss : 1.360006, val accuracy :  0.635，val  precision :  0.579882,val recall:  0.98
+2020-06-23 11:46:12.701415: Step [339]  train Loss : 1.396115, training accuracy :  0.8125
+2020-06-23 11:46:17.397387: Step [339]  val Loss : 1.530817, val accuracy :  0.5，val  precision :  0.5,val recall:  1
+2020-06-23 11:46:17.696327: Step [340]  train Loss : 1.514570, training accuracy :  0.3125
+2020-06-23 11:46:22.475276: Step [340]  val Loss : 1.376957, val accuracy :  0.54，val  precision :  0.520833,val recall:  1
+2020-06-23 11:46:22.776826: Step [341]  train Loss : 0.999074, training accuracy :  0.5625
+2020-06-23 11:46:27.598062: Step [341]  val Loss : 1.371493, val accuracy :  0.515，val  precision :  0.507772,val recall:  0.98
+2020-06-23 11:46:27.901480: Step [342]  train Loss : 0.736260, training accuracy :  0.625
+2020-06-23 11:46:32.671661: Step [342]  val Loss : 1.368960, val accuracy :  0.545，val  precision :  0.524064,val recall:  0.98
+2020-06-23 11:46:32.972655: Step [343]  train Loss : 0.707853, training accuracy :  0.4375
+2020-06-23 11:46:37.721846: Step [343]  val Loss : 1.369387, val accuracy :  0.54，val  precision :  0.521277,val recall:  0.98
+2020-06-23 11:46:38.023131: Step [344]  train Loss : 0.716158, training accuracy :  0.5
+2020-06-23 11:46:42.792495: Step [344]  val Loss : 1.367581, val accuracy :  0.56，val  precision :  0.532609,val recall:  0.98
+2020-06-23 11:46:43.094853: Step [345]  train Loss : 0.746507, training accuracy :  0.625
+2020-06-23 11:46:47.838884: Step [345]  val Loss : 1.370591, val accuracy :  0.525，val  precision :  0.513089,val recall:  0.98
+2020-06-23 11:46:48.138653: Step [346]  train Loss : 0.763828, training accuracy :  0.625
+2020-06-23 11:46:52.840694: Step [346]  val Loss : 1.380273, val accuracy :  0.5，val  precision :  0.5,val recall:  0.98
+2020-06-23 11:46:53.140030: Step [347]  train Loss : 1.206012, training accuracy :  0.5625
+2020-06-23 11:46:57.930746: Step [347]  val Loss : 1.359736, val accuracy :  0.64，val  precision :  0.583333,val recall:  0.98
+2020-06-23 11:46:58.230617: Step [348]  train Loss : 0.740057, training accuracy :  0.625
+2020-06-23 11:47:03.012969: Step [348]  val Loss : 1.358530, val accuracy :  0.62，val  precision :  0.569767,val recall:  0.98
+2020-06-23 11:47:03.315237: Step [349]  train Loss : 0.860340, training accuracy :  0.5625
+2020-06-23 11:47:08.099256: Step [349]  val Loss : 1.477117, val accuracy :  0.5，val  precision :  0.5,val recall:  0.98
+2020-06-23 11:47:08.400587: Step [350]  train Loss : 0.738763, training accuracy :  0.4375
+2020-06-23 11:47:13.184622: Step [350]  val Loss : 1.485711, val accuracy :  0.5，val  precision :  0.5,val recall:  0.98
+2020-06-23 11:47:13.484625: Step [351]  train Loss : 0.764280, training accuracy :  0.5625
+2020-06-23 11:47:18.252159: Step [351]  val Loss : 1.431618, val accuracy :  0.5，val  precision :  0.5,val recall:  0.98
+2020-06-23 11:47:18.554360: Step [352]  train Loss : 0.724868, training accuracy :  0.4375
+2020-06-23 11:47:23.289311: Step [352]  val Loss : 1.437535, val accuracy :  0.52，val  precision :  0.510417,val recall:  0.98
+2020-06-23 11:47:23.591335: Step [353]  train Loss : 0.731922, training accuracy :  0.625
+2020-06-23 11:47:28.325078: Step [353]  val Loss : 1.449021, val accuracy :  0.5，val  precision :  0.5,val recall:  0.98
+2020-06-23 11:47:28.626929: Step [354]  train Loss : 0.711405, training accuracy :  0.5625
+2020-06-23 11:47:33.312113: Step [354]  val Loss : 1.444008, val accuracy :  0.52，val  precision :  0.510417,val recall:  0.98
+2020-06-23 11:47:33.613607: Step [355]  train Loss : 0.707928, training accuracy :  0.4375
+2020-06-23 11:47:38.299860: Step [355]  val Loss : 1.441070, val accuracy :  0.52，val  precision :  0.510417,val recall:  0.98
+2020-06-23 11:47:38.601705: Step [356]  train Loss : 0.780143, training accuracy :  0.8125
+2020-06-23 11:47:43.281937: Step [356]  val Loss : 1.481367, val accuracy :  0.5，val  precision :  0.5,val recall:  1
+2020-06-23 11:47:43.583896: Step [357]  train Loss : 0.715198, training accuracy :  0.5625
+2020-06-23 11:47:48.301824: Step [357]  val Loss : 1.482772, val accuracy :  0.5，val  precision :  0.5,val recall:  1
+2020-06-23 11:47:48.603904: Step [358]  train Loss : 0.710883, training accuracy :  0.4375
+2020-06-23 11:47:53.383527: Step [358]  val Loss : 1.482658, val accuracy :  0.505，val  precision :  0.502513,val recall:  1
+2020-06-23 11:47:53.684395: Step [359]  train Loss : 0.709440, training accuracy :  0.5
+2020-06-23 11:47:58.464474: Step [359]  val Loss : 1.480340, val accuracy :  0.505，val  precision :  0.502513,val recall:  1
+2020-06-23 11:47:58.767141: Step [360]  train Loss : 0.707580, training accuracy :  0.5
+2020-06-23 11:48:03.525260: Step [360]  val Loss : 1.478492, val accuracy :  0.51，val  precision :  0.505051,val recall:  1
+2020-06-23 11:48:03.824929: Step [361]  train Loss : 0.709782, training accuracy :  0.4375
+2020-06-23 11:48:08.616898: Step [361]  val Loss : 1.483372, val accuracy :  0.51，val  precision :  0.505051,val recall:  1
+2020-06-23 11:48:08.917850: Step [362]  train Loss : 0.704602, training accuracy :  0.5625
+2020-06-23 11:48:13.711820: Step [362]  val Loss : 1.480816, val accuracy :  0.515，val  precision :  0.507614,val recall:  1
+2020-06-23 11:48:14.014384: Step [363]  train Loss : 0.726811, training accuracy :  0.75
+2020-06-23 11:48:18.792222: Step [363]  val Loss : 1.459013, val accuracy :  0.52，val  precision :  0.510204,val recall:  1
+2020-06-23 11:48:19.092268: Step [364]  train Loss : 0.706636, training accuracy :  0.5625
+2020-06-23 11:48:23.872210: Step [364]  val Loss : 1.455833, val accuracy :  0.525，val  precision :  0.512821,val recall:  1
+2020-06-23 11:48:24.175027: Step [365]  train Loss : 0.712234, training accuracy :  0.5
+2020-06-23 11:48:28.902138: Step [365]  val Loss : 1.454022, val accuracy :  0.53，val  precision :  0.515464,val recall:  1
+2020-06-23 11:48:29.204566: Step [366]  train Loss : 0.930609, training accuracy :  0.375
+2020-06-23 11:48:33.968981: Step [366]  val Loss : 1.426996, val accuracy :  0.58，val  precision :  0.544444,val recall:  0.98
+2020-06-23 11:48:34.271438: Step [367]  train Loss : 0.706551, training accuracy :  0.625
+2020-06-23 11:48:38.994355: Step [367]  val Loss : 1.428247, val accuracy :  0.58，val  precision :  0.544444,val recall:  0.98
+2020-06-23 11:48:39.295863: Step [368]  train Loss : 0.719436, training accuracy :  0.5625
+2020-06-23 11:48:43.986439: Step [368]  val Loss : 1.439499, val accuracy :  0.58，val  precision :  0.544444,val recall:  0.98
+2020-06-23 11:48:44.293492: Step [369]  train Loss : 0.708485, training accuracy :  0.5
+2020-06-23 11:48:48.998182: Step [369]  val Loss : 1.440443, val accuracy :  0.58，val  precision :  0.544444,val recall:  0.98
+2020-06-23 11:48:49.299775: Step [370]  train Loss : 0.988617, training accuracy :  0.6875
+2020-06-23 11:48:53.988823: Step [370]  val Loss : 1.646473, val accuracy :  0.515，val  precision :  0.507772,val recall:  0.98
+2020-06-23 11:48:54.291714: Step [371]  train Loss : 0.812811, training accuracy :  0.375
+2020-06-23 11:48:59.036557: Step [371]  val Loss : 1.452060, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:48:59.336756: Step [372]  train Loss : 0.710405, training accuracy :  0.6875
+2020-06-23 11:49:04.119948: Step [372]  val Loss : 1.449120, val accuracy :  0.55，val  precision :  0.526882,val recall:  0.98
+2020-06-23 11:49:04.420900: Step [373]  train Loss : 0.956758, training accuracy :  0.8125
+2020-06-23 11:49:09.181924: Step [373]  val Loss : 1.475890, val accuracy :  0.53，val  precision :  0.515625,val recall:  0.99
+2020-06-23 11:49:09.483219: Step [374]  train Loss : 0.828714, training accuracy :  0.4375
+2020-06-23 11:49:14.268980: Step [374]  val Loss : 1.384025, val accuracy :  0.58，val  precision :  0.544444,val recall:  0.98
+2020-06-23 11:49:14.569967: Step [375]  train Loss : 0.717530, training accuracy :  0.6875
+2020-06-23 11:49:19.307454: Step [375]  val Loss : 1.381355, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:49:19.606961: Step [376]  train Loss : 0.719781, training accuracy :  0.6875
+2020-06-23 11:49:24.386088: Step [376]  val Loss : 1.386108, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:49:24.687755: Step [377]  train Loss : 0.735336, training accuracy :  0.3125
+2020-06-23 11:49:29.499872: Step [377]  val Loss : 1.378935, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:49:29.803100: Step [378]  train Loss : 0.820794, training accuracy :  0.6875
+2020-06-23 11:49:34.573858: Step [378]  val Loss : 1.415150, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:49:34.876235: Step [379]  train Loss : 0.706791, training accuracy :  0.8125
+2020-06-23 11:49:39.677280: Step [379]  val Loss : 1.415969, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:49:39.980368: Step [380]  train Loss : 0.710951, training accuracy :  0.5
+2020-06-23 11:49:44.739624: Step [380]  val Loss : 1.417230, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:49:45.040070: Step [381]  train Loss : 0.709088, training accuracy :  0.5625
+2020-06-23 11:49:49.773993: Step [381]  val Loss : 1.416165, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:49:50.074157: Step [382]  train Loss : 0.709632, training accuracy :  0.625
+2020-06-23 11:49:54.764746: Step [382]  val Loss : 1.416955, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:49:55.064126: Step [383]  train Loss : 0.715023, training accuracy :  0.5
+2020-06-23 11:49:59.844227: Step [383]  val Loss : 1.411996, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:00.147246: Step [384]  train Loss : 0.732150, training accuracy :  0.8125
+2020-06-23 11:50:04.897588: Step [384]  val Loss : 1.430709, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:05.203670: Step [385]  train Loss : 0.706574, training accuracy :  0.625
+2020-06-23 11:50:09.953621: Step [385]  val Loss : 1.426981, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:10.261232: Step [386]  train Loss : 0.707414, training accuracy :  0.5625
+2020-06-23 11:50:14.943177: Step [386]  val Loss : 1.422951, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:15.244146: Step [387]  train Loss : 0.744347, training accuracy :  0.4375
+2020-06-23 11:50:19.916244: Step [387]  val Loss : 1.430440, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:20.218389: Step [388]  train Loss : 0.704935, training accuracy :  0.6875
+2020-06-23 11:50:24.899210: Step [388]  val Loss : 1.430094, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:25.200005: Step [389]  train Loss : 0.749210, training accuracy :  0.625
+2020-06-23 11:50:29.885385: Step [389]  val Loss : 1.412786, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:30.191909: Step [390]  train Loss : 0.743892, training accuracy :  0.625
+2020-06-23 11:50:34.880241: Step [390]  val Loss : 1.442366, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:35.181753: Step [391]  train Loss : 0.711892, training accuracy :  0.625
+2020-06-23 11:50:39.905842: Step [391]  val Loss : 1.446950, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:40.207781: Step [392]  train Loss : 0.740395, training accuracy :  0.75
+2020-06-23 11:50:44.894261: Step [392]  val Loss : 1.470849, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:45.196006: Step [393]  train Loss : 0.726697, training accuracy :  0.4375
+2020-06-23 11:50:49.897994: Step [393]  val Loss : 1.435987, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:50.200529: Step [394]  train Loss : 0.705024, training accuracy :  0.5
+2020-06-23 11:50:54.893781: Step [394]  val Loss : 1.433136, val accuracy :  0.585，val  precision :  0.547486,val recall:  0.98
+2020-06-23 11:50:55.196347: Step [395]  train Loss : 0.712719, training accuracy :  0.5
+2020-06-23 11:50:59.886471: Step [395]  val Loss : 1.425952, val accuracy :  0.595，val  precision :  0.553672,val recall:  0.98
+2020-06-23 11:51:00.189206: Step [396]  train Loss : 0.726287, training accuracy :  0.6875
+2020-06-23 11:51:04.882504: Step [396]  val Loss : 1.402576, val accuracy :  0.615，val  precision :  0.566474,val recall:  0.98
+2020-06-23 11:51:05.188480: Step [397]  train Loss : 0.705332, training accuracy :  0.625
+2020-06-23 11:51:09.879782: Step [397]  val Loss : 1.401063, val accuracy :  0.62，val  precision :  0.569767,val recall:  0.98
+2020-06-23 11:51:10.182479: Step [398]  train Loss : 0.703980, training accuracy :  0.625
+2020-06-23 11:51:14.898514: Step [398]  val Loss : 1.399758, val accuracy :  0.62，val  precision :  0.569767,val recall:  0.98
+2020-06-23 11:51:15.199708: Step [399]  train Loss : 0.707432, training accuracy :  0.625
+2020-06-23 11:51:19.978022: Step [399]  val Loss : 1.399613, val accuracy :  0.62，val  precision :  0.569767,val recall:  0.98
+2020-06-23 11:51:20.280339: Step [400]  train Loss : 0.717957, training accuracy :  0.625
+2020-06-23 11:51:25.074536: Step [400]  val Loss : 1.404402, val accuracy :  0.62，val  precision :  0.569767,val recall:  0.98
+2020-06-23 11:51:25.374640: Step [401]  train Loss : 0.738289, training accuracy :  0.6875
+2020-06-23 11:51:30.131546: Step [401]  val Loss : 1.386439, val accuracy :  0.63，val  precision :  0.574713,val recall:  1
+2020-06-23 11:51:30.431369: Step [402]  train Loss : 0.703849, training accuracy :  0.625
+2020-06-23 11:51:35.128937: Step [402]  val Loss : 1.385094, val accuracy :  0.63，val  precision :  0.574713,val recall:  1
+2020-06-23 11:51:35.428459: Step [403]  train Loss : 0.704557, training accuracy :  0.6875
+2020-06-23 11:51:40.142597: Step [403]  val Loss : 1.384553, val accuracy :  0.63，val  precision :  0.574713,val recall:  1
+2020-06-23 11:51:40.442635: Step [404]  train Loss : 0.734511, training accuracy :  0.6875
+2020-06-23 11:51:45.173591: Step [404]  val Loss : 1.395290, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:51:45.475811: Step [405]  train Loss : 0.705487, training accuracy :  0.625
+2020-06-23 11:51:50.233844: Step [405]  val Loss : 1.392328, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:51:50.534631: Step [406]  train Loss : 0.705860, training accuracy :  0.625
+2020-06-23 11:51:55.272503: Step [406]  val Loss : 1.391677, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:51:55.574899: Step [407]  train Loss : 0.703012, training accuracy :  0.5625
+2020-06-23 11:52:00.264232: Step [407]  val Loss : 1.390260, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:52:00.565854: Step [408]  train Loss : 0.724725, training accuracy :  0.6875
+2020-06-23 11:52:05.245186: Step [408]  val Loss : 1.381799, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:52:05.546371: Step [409]  train Loss : 0.705497, training accuracy :  0.5
+2020-06-23 11:52:10.226029: Step [409]  val Loss : 1.380635, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:52:10.528860: Step [410]  train Loss : 0.703866, training accuracy :  0.5625
+2020-06-23 11:52:15.207030: Step [410]  val Loss : 1.379371, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:52:15.508301: Step [411]  train Loss : 0.708738, training accuracy :  0.75
+2020-06-23 11:52:20.182853: Step [411]  val Loss : 1.381170, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:52:20.484598: Step [412]  train Loss : 0.718294, training accuracy :  0.6875
+2020-06-23 11:52:25.167087: Step [412]  val Loss : 1.373027, val accuracy :  0.625，val  precision :  0.572254,val recall:  0.99
+2020-06-23 11:52:25.469471: Step [413]  train Loss : 0.710211, training accuracy :  0.4375
+2020-06-23 11:52:30.151223: Step [413]  val Loss : 1.370562, val accuracy :  0.625，val  precision :  0.572254,val recall:  0.99
+2020-06-23 11:52:30.452809: Step [414]  train Loss : 0.715388, training accuracy :  0.6875
+2020-06-23 11:52:35.133758: Step [414]  val Loss : 1.370870, val accuracy :  0.625，val  precision :  0.572254,val recall:  0.99
+2020-06-23 11:52:35.435309: Step [415]  train Loss : 0.706357, training accuracy :  0.8125
+2020-06-23 11:52:40.129356: Step [415]  val Loss : 1.371420, val accuracy :  0.625，val  precision :  0.572254,val recall:  0.99
+2020-06-23 11:52:40.431957: Step [416]  train Loss : 0.730072, training accuracy :  0.375
+2020-06-23 11:52:45.119422: Step [416]  val Loss : 1.367505, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:52:45.420785: Step [417]  train Loss : 0.742022, training accuracy :  0.6875
+2020-06-23 11:52:50.110701: Step [417]  val Loss : 1.380090, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:52:50.412385: Step [418]  train Loss : 0.705827, training accuracy :  0.6875
+2020-06-23 11:52:55.115844: Step [418]  val Loss : 1.378813, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:52:55.418787: Step [419]  train Loss : 0.704293, training accuracy :  0.625
+2020-06-23 11:53:00.211155: Step [419]  val Loss : 1.378079, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:53:00.512978: Step [420]  train Loss : 0.703902, training accuracy :  0.5625
+2020-06-23 11:53:05.214429: Step [420]  val Loss : 1.376838, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:53:05.514165: Step [421]  train Loss : 0.704163, training accuracy :  0.625
+2020-06-23 11:53:10.210109: Step [421]  val Loss : 1.375639, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:53:10.510068: Step [422]  train Loss : 0.705419, training accuracy :  0.5
+2020-06-23 11:53:15.228761: Step [422]  val Loss : 1.374644, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:53:15.527959: Step [423]  train Loss : 0.703709, training accuracy :  0.5
+2020-06-23 11:53:20.221623: Step [423]  val Loss : 1.373379, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:53:20.520743: Step [424]  train Loss : 0.708911, training accuracy :  0.4375
+2020-06-23 11:53:25.259569: Step [424]  val Loss : 1.372194, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:53:25.560303: Step [425]  train Loss : 0.703391, training accuracy :  0.625
+2020-06-23 11:53:30.388192: Step [425]  val Loss : 1.370898, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:53:30.689585: Step [426]  train Loss : 0.707302, training accuracy :  0.8125
+2020-06-23 11:53:35.459563: Step [426]  val Loss : 1.370294, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:53:35.759185: Step [427]  train Loss : 0.715340, training accuracy :  0.6875
+2020-06-23 11:53:40.458701: Step [427]  val Loss : 1.372981, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:53:40.757775: Step [428]  train Loss : 0.703417, training accuracy :  0.6875
+2020-06-23 11:53:45.458712: Step [428]  val Loss : 1.371794, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:53:45.761011: Step [429]  train Loss : 1.073735, training accuracy :  0.6875
+2020-06-23 11:53:50.463674: Step [429]  val Loss : 1.346328, val accuracy :  0.72，val  precision :  0.671875,val recall:  0.86
+2020-06-23 11:53:50.764204: Step [430]  train Loss : 1.841477, training accuracy :  0.625
+2020-06-23 11:53:55.506362: Step [430]  val Loss : 1.348937, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:53:55.806765: Step [431]  train Loss : 0.851579, training accuracy :  0.5625
+2020-06-23 11:54:00.617997: Step [431]  val Loss : 1.340663, val accuracy :  0.675，val  precision :  0.610063,val recall:  0.97
+2020-06-23 11:54:00.925190: Step [432]  train Loss : 0.714806, training accuracy :  0.9375
+2020-06-23 11:54:05.728113: Step [432]  val Loss : 1.341122, val accuracy :  0.665，val  precision :  0.602484,val recall:  0.97
+2020-06-23 11:54:06.028195: Step [433]  train Loss : 0.712888, training accuracy :  0.5
+2020-06-23 11:54:10.789624: Step [433]  val Loss : 1.340798, val accuracy :  0.65，val  precision :  0.591463,val recall:  0.97
+2020-06-23 11:54:11.091639: Step [434]  train Loss : 0.719159, training accuracy :  0.875
+2020-06-23 11:54:15.851427: Step [434]  val Loss : 1.342537, val accuracy :  0.635，val  precision :  0.580838,val recall:  0.97
+2020-06-23 11:54:16.151912: Step [435]  train Loss : 0.708391, training accuracy :  0.6875
+2020-06-23 11:54:20.850874: Step [435]  val Loss : 1.342629, val accuracy :  0.635，val  precision :  0.580838,val recall:  0.97
+2020-06-23 11:54:21.150878: Step [436]  train Loss : 0.704308, training accuracy :  0.6875
+2020-06-23 11:54:25.892181: Step [436]  val Loss : 1.342408, val accuracy :  0.635，val  precision :  0.580838,val recall:  0.97
+2020-06-23 11:54:26.192994: Step [437]  train Loss : 0.712272, training accuracy :  0.625
+2020-06-23 11:54:30.993190: Step [437]  val Loss : 1.342699, val accuracy :  0.635，val  precision :  0.580838,val recall:  0.97
+2020-06-23 11:54:31.292436: Step [438]  train Loss : 0.951293, training accuracy :  0.875
+2020-06-23 11:54:36.074587: Step [438]  val Loss : 1.370798, val accuracy :  0.625，val  precision :  0.572254,val recall:  0.99
+2020-06-23 11:54:36.375634: Step [439]  train Loss : 0.741819, training accuracy :  0.75
+2020-06-23 11:54:41.085915: Step [439]  val Loss : 1.366955, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:54:41.385219: Step [440]  train Loss : 0.848746, training accuracy :  0.5625
+2020-06-23 11:54:46.141900: Step [440]  val Loss : 1.359425, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:54:46.441513: Step [441]  train Loss : 0.809886, training accuracy :  0.375
+2020-06-23 11:54:51.195959: Step [441]  val Loss : 1.348274, val accuracy :  0.635，val  precision :  0.580838,val recall:  0.97
+2020-06-23 11:54:51.501707: Step [442]  train Loss : 0.773382, training accuracy :  0.6875
+2020-06-23 11:54:56.279912: Step [442]  val Loss : 1.358528, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:54:56.582735: Step [443]  train Loss : 0.837010, training accuracy :  0.6875
+2020-06-23 11:55:01.355316: Step [443]  val Loss : 1.422818, val accuracy :  0.62，val  precision :  0.569767,val recall:  0.98
+2020-06-23 11:55:01.658093: Step [444]  train Loss : 0.851022, training accuracy :  0.8125
+2020-06-23 11:55:06.452627: Step [444]  val Loss : 1.359465, val accuracy :  0.63，val  precision :  0.574713,val recall:  1
+2020-06-23 11:55:06.754513: Step [445]  train Loss : 0.744670, training accuracy :  0.8125
+2020-06-23 11:55:11.454034: Step [445]  val Loss : 1.368085, val accuracy :  0.62，val  precision :  0.569767,val recall:  0.98
+2020-06-23 11:55:11.756714: Step [446]  train Loss : 0.728641, training accuracy :  0.625
+2020-06-23 11:55:16.446402: Step [446]  val Loss : 1.362710, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:55:16.748675: Step [447]  train Loss : 0.711872, training accuracy :  0.8125
+2020-06-23 11:55:21.453528: Step [447]  val Loss : 1.365122, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:55:21.755425: Step [448]  train Loss : 0.709745, training accuracy :  0.625
+2020-06-23 11:55:26.553065: Step [448]  val Loss : 1.362624, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:55:26.853764: Step [449]  train Loss : 0.767844, training accuracy :  0.375
+2020-06-23 11:55:31.677518: Step [449]  val Loss : 1.350299, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:55:31.979658: Step [450]  train Loss : 0.736005, training accuracy :  0.75
+2020-06-23 11:55:36.808972: Step [450]  val Loss : 1.351807, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:55:37.111798: Step [451]  train Loss : 0.735050, training accuracy :  0.375
+2020-06-23 11:55:41.893373: Step [451]  val Loss : 1.355556, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:55:42.192988: Step [452]  train Loss : 0.772492, training accuracy :  0.8125
+2020-06-23 11:55:46.921175: Step [452]  val Loss : 1.356344, val accuracy :  0.615，val  precision :  0.567251,val recall:  0.97
+2020-06-23 11:55:47.220918: Step [453]  train Loss : 0.720625, training accuracy :  0.5625
+2020-06-23 11:55:51.923153: Step [453]  val Loss : 1.356815, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:55:52.223398: Step [454]  train Loss : 0.777204, training accuracy :  0.4375
+2020-06-23 11:55:56.973513: Step [454]  val Loss : 1.343171, val accuracy :  0.645，val  precision :  0.587879,val recall:  0.97
+2020-06-23 11:55:57.276216: Step [455]  train Loss : 0.707963, training accuracy :  0.75
+2020-06-23 11:56:02.051539: Step [455]  val Loss : 1.343307, val accuracy :  0.645，val  precision :  0.587879,val recall:  0.97
+2020-06-23 11:56:02.355432: Step [456]  train Loss : 0.721575, training accuracy :  0.625
+2020-06-23 11:56:07.147265: Step [456]  val Loss : 1.345748, val accuracy :  0.64，val  precision :  0.584337,val recall:  0.97
+2020-06-23 11:56:07.449396: Step [457]  train Loss : 0.721975, training accuracy :  0.6875
+2020-06-23 11:56:12.230689: Step [457]  val Loss : 1.345202, val accuracy :  0.64，val  precision :  0.584337,val recall:  0.97
+2020-06-23 11:56:12.530941: Step [458]  train Loss : 0.835689, training accuracy :  0.875
+2020-06-23 11:56:17.268890: Step [458]  val Loss : 1.362414, val accuracy :  0.62，val  precision :  0.570588,val recall:  0.97
+2020-06-23 11:56:17.567598: Step [459]  train Loss : 0.709504, training accuracy :  0.8125
+2020-06-23 11:56:22.286223: Step [459]  val Loss : 1.361514, val accuracy :  0.625，val  precision :  0.573099,val recall:  0.98
+2020-06-23 11:56:22.587018: Step [460]  train Loss : 0.706337, training accuracy :  0.5
+2020-06-23 11:56:27.345948: Step [460]  val Loss : 1.361420, val accuracy :  0.625，val  precision :  0.573099,val recall:  0.98
+2020-06-23 11:56:27.649165: Step [461]  train Loss : 0.841860, training accuracy :  0.5625
+2020-06-23 11:56:32.446841: Step [461]  val Loss : 1.349744, val accuracy :  0.63，val  precision :  0.577381,val recall:  0.97
+2020-06-23 11:56:32.748109: Step [462]  train Loss : 0.718013, training accuracy :  0.5625
+2020-06-23 11:56:37.564992: Step [462]  val Loss : 1.345691, val accuracy :  0.635，val  precision :  0.580838,val recall:  0.97
+2020-06-23 11:56:37.866022: Step [463]  train Loss : 0.708063, training accuracy :  0.625
+2020-06-23 11:56:42.608969: Step [463]  val Loss : 1.345823, val accuracy :  0.635，val  precision :  0.580838,val recall:  0.97
+2020-06-23 11:56:42.908931: Step [464]  train Loss : 0.724824, training accuracy :  0.4375
+2020-06-23 11:56:47.678197: Step [464]  val Loss : 1.348318, val accuracy :  0.635，val  precision :  0.580838,val recall:  0.97
+2020-06-23 11:56:47.980761: Step [465]  train Loss : 0.704881, training accuracy :  0.75
+2020-06-23 11:56:52.687724: Step [465]  val Loss : 1.348143, val accuracy :  0.635，val  precision :  0.580838,val recall:  0.97
+2020-06-23 11:56:52.989485: Step [466]  train Loss : 0.704372, training accuracy :  0.75
+2020-06-23 11:56:57.669383: Step [466]  val Loss : 1.347900, val accuracy :  0.635，val  precision :  0.580838,val recall:  0.97
+2020-06-23 11:56:57.970861: Step [467]  train Loss : 0.707518, training accuracy :  0.6875
+2020-06-23 11:57:02.657722: Step [467]  val Loss : 1.348094, val accuracy :  0.635，val  precision :  0.580838,val recall:  0.97
+2020-06-23 11:57:02.959241: Step [468]  train Loss : 0.706164, training accuracy :  0.6875
+2020-06-23 11:57:07.636008: Step [468]  val Loss : 1.347028, val accuracy :  0.65，val  precision :  0.591463,val recall:  0.97
+2020-06-23 11:57:07.936871: Step [469]  train Loss : 0.717283, training accuracy :  0.4375
+2020-06-23 11:57:12.626140: Step [469]  val Loss : 1.347670, val accuracy :  0.65，val  precision :  0.591463,val recall:  0.97
+2020-06-23 11:57:12.927867: Step [470]  train Loss : 0.705685, training accuracy :  0.75
+2020-06-23 11:57:17.621411: Step [470]  val Loss : 1.347485, val accuracy :  0.65，val  precision :  0.591463,val recall:  0.97
+2020-06-23 11:57:17.922377: Step [471]  train Loss : 0.703838, training accuracy :  0.75
+2020-06-23 11:57:22.597829: Step [471]  val Loss : 1.347153, val accuracy :  0.65，val  precision :  0.591463,val recall:  0.97
+2020-06-23 11:57:22.899673: Step [472]  train Loss : 0.705947, training accuracy :  0.625
+2020-06-23 11:57:27.606240: Step [472]  val Loss : 1.346481, val accuracy :  0.655，val  precision :  0.595092,val recall:  0.97
+2020-06-23 11:57:27.908224: Step [473]  train Loss : 0.703608, training accuracy :  0.5
+2020-06-23 11:57:32.591605: Step [473]  val Loss : 1.346045, val accuracy :  0.665，val  precision :  0.602484,val recall:  0.97
+2020-06-23 11:57:32.892745: Step [474]  train Loss : 0.704524, training accuracy :  0.8125
+2020-06-23 11:57:37.573759: Step [474]  val Loss : 1.345637, val accuracy :  0.665，val  precision :  0.602484,val recall:  0.97
+2020-06-23 11:57:37.875257: Step [475]  train Loss : 0.704838, training accuracy :  0.8125
+2020-06-23 11:57:42.550921: Step [475]  val Loss : 1.345173, val accuracy :  0.665，val  precision :  0.602484,val recall:  0.97
+2020-06-23 11:57:42.852034: Step [476]  train Loss : 0.720568, training accuracy :  0.6875
+2020-06-23 11:57:47.548262: Step [476]  val Loss : 1.347554, val accuracy :  0.655，val  precision :  0.595092,val recall:  0.97
+2020-06-23 11:57:47.851601: Step [477]  train Loss : 0.828830, training accuracy :  0.4375
+2020-06-23 11:57:52.590336: Step [477]  val Loss : 1.337026, val accuracy :  0.675，val  precision :  0.625899,val recall:  0.87
+2020-06-23 11:57:52.893207: Step [478]  train Loss : 0.712640, training accuracy :  0.6875
+2020-06-23 11:57:57.579904: Step [478]  val Loss : 1.337230, val accuracy :  0.675，val  precision :  0.625899,val recall:  0.87
+2020-06-23 11:57:57.881580: Step [479]  train Loss : 0.706731, training accuracy :  0.6875
+2020-06-23 11:58:02.575495: Step [479]  val Loss : 1.337022, val accuracy :  0.675，val  precision :  0.625899,val recall:  0.87
+2020-06-23 11:58:02.881292: Step [480]  train Loss : 0.707413, training accuracy :  0.5625
+2020-06-23 11:58:07.563171: Step [480]  val Loss : 1.336846, val accuracy :  0.68，val  precision :  0.630435,val recall:  0.87
+2020-06-23 11:58:07.864181: Step [481]  train Loss : 0.706679, training accuracy :  0.625
+2020-06-23 11:58:12.549245: Step [481]  val Loss : 1.336643, val accuracy :  0.68，val  precision :  0.630435,val recall:  0.87
+2020-06-23 11:58:12.852327: Step [482]  train Loss : 0.714692, training accuracy :  0.75
+2020-06-23 11:58:17.627003: Step [482]  val Loss : 1.335910, val accuracy :  0.68，val  precision :  0.630435,val recall:  0.87
+2020-06-23 11:58:17.926589: Step [483]  train Loss : 0.726528, training accuracy :  0.6875
+2020-06-23 11:58:22.667992: Step [483]  val Loss : 1.334717, val accuracy :  0.675，val  precision :  0.625899,val recall:  0.87
+2020-06-23 11:58:22.969628: Step [484]  train Loss : 0.711896, training accuracy :  0.8125
+2020-06-23 11:58:27.739055: Step [484]  val Loss : 1.335249, val accuracy :  0.67，val  precision :  0.623188,val recall:  0.86
+2020-06-23 11:58:28.040123: Step [485]  train Loss : 0.703838, training accuracy :  0.625
+2020-06-23 11:58:32.824635: Step [485]  val Loss : 1.335335, val accuracy :  0.675，val  precision :  0.627737,val recall:  0.86
+2020-06-23 11:58:33.127416: Step [486]  train Loss : 0.719295, training accuracy :  0.5
+2020-06-23 11:58:37.866822: Step [486]  val Loss : 1.334756, val accuracy :  0.67，val  precision :  0.625,val recall:  0.85
+2020-06-23 11:58:38.166799: Step [487]  train Loss : 0.705364, training accuracy :  0.625
+2020-06-23 11:58:42.959596: Step [487]  val Loss : 1.334723, val accuracy :  0.67，val  precision :  0.625,val recall:  0.85
+2020-06-23 11:58:43.260359: Step [488]  train Loss : 0.737379, training accuracy :  0.75
+2020-06-23 11:58:48.051226: Step [488]  val Loss : 1.337781, val accuracy :  0.675，val  precision :  0.62069,val recall:  0.9
+2020-06-23 11:58:48.355035: Step [489]  train Loss : 0.703652, training accuracy :  0.625
+2020-06-23 11:58:53.068544: Step [489]  val Loss : 1.337625, val accuracy :  0.68，val  precision :  0.626761,val recall:  0.89
+2020-06-23 11:58:53.369842: Step [490]  train Loss : 0.706973, training accuracy :  0.75
+2020-06-23 11:58:58.081105: Step [490]  val Loss : 1.337532, val accuracy :  0.675，val  precision :  0.624113,val recall:  0.88
+2020-06-23 11:58:58.383466: Step [491]  train Loss : 0.706649, training accuracy :  0.8125
+2020-06-23 11:59:03.103606: Step [491]  val Loss : 1.337660, val accuracy :  0.675，val  precision :  0.624113,val recall:  0.88
+2020-06-23 11:59:03.404758: Step [492]  train Loss : 0.714220, training accuracy :  0.5
+2020-06-23 11:59:08.100991: Step [492]  val Loss : 1.337220, val accuracy :  0.675，val  precision :  0.625899,val recall:  0.87
+2020-06-23 11:59:08.403356: Step [493]  train Loss : 0.705472, training accuracy :  0.75
+2020-06-23 11:59:13.153960: Step [493]  val Loss : 1.337230, val accuracy :  0.67，val  precision :  0.623188,val recall:  0.86
+2020-06-23 11:59:13.455816: Step [494]  train Loss : 0.703630, training accuracy :  0.625
+2020-06-23 11:59:18.165499: Step [494]  val Loss : 1.337126, val accuracy :  0.67，val  precision :  0.623188,val recall:  0.86
+2020-06-23 11:59:18.465449: Step [495]  train Loss : 0.704226, training accuracy :  0.5625
+2020-06-23 11:59:23.219582: Step [495]  val Loss : 1.336966, val accuracy :  0.67，val  precision :  0.623188,val recall:  0.86
+2020-06-23 11:59:23.520135: Step [496]  train Loss : 0.704223, training accuracy :  0.75
+2020-06-23 11:59:28.301770: Step [496]  val Loss : 1.336859, val accuracy :  0.67，val  precision :  0.623188,val recall:  0.86
+2020-06-23 11:59:28.602633: Step [497]  train Loss : 0.703292, training accuracy :  0.6875
+2020-06-23 11:59:33.360281: Step [497]  val Loss : 1.336781, val accuracy :  0.67，val  precision :  0.623188,val recall:  0.86
+2020-06-23 11:59:33.661263: Step [498]  train Loss : 0.706468, training accuracy :  0.625
+2020-06-23 11:59:38.471911: Step [498]  val Loss : 1.336951, val accuracy :  0.67，val  precision :  0.623188,val recall:  0.86
+2020-06-23 11:59:38.772239: Step [499]  train Loss : 0.712791, training accuracy :  0.5
+2020-06-23 11:59:43.519756: Step [499]  val Loss : 1.336362, val accuracy :  0.67，val  precision :  0.625,val recall:  0.85
+2020-06-23 11:59:43.821612: Step [500]  train Loss : 0.707245, training accuracy :  0.6875
+2020-06-23 11:59:48.509959: Step [500]  val Loss : 1.336586, val accuracy :  0.67，val  precision :  0.625,val recall:  0.85
+2020-06-23 11:59:48.811186: Step [501]  train Loss : 0.707998, training accuracy :  0.6875
+2020-06-23 11:59:53.510760: Step [501]  val Loss : 1.336343, val accuracy :  0.67，val  precision :  0.625,val recall:  0.85
+2020-06-23 11:59:53.813199: Step [502]  train Loss : 0.703108, training accuracy :  0.625
+2020-06-23 11:59:58.562508: Step [502]  val Loss : 1.336344, val accuracy :  0.67，val  precision :  0.625,val recall:  0.85
+2020-06-23 11:59:58.864625: Step [503]  train Loss : 0.708364, training accuracy :  0.875
+2020-06-23 12:00:03.610117: Step [503]  val Loss : 1.336531, val accuracy :  0.67，val  precision :  0.625,val recall:  0.85
+2020-06-23 12:00:03.911273: Step [504]  train Loss : 0.705434, training accuracy :  0.875
+2020-06-23 12:00:08.703585: Step [504]  val Loss : 1.336531, val accuracy :  0.67，val  precision :  0.625,val recall:  0.85
+2020-06-23 12:00:09.005157: Step [505]  train Loss : 0.710880, training accuracy :  0.5
+2020-06-23 12:00:13.737392: Step [505]  val Loss : 1.337095, val accuracy :  0.67，val  precision :  0.625,val recall:  0.85
+2020-06-23 12:00:14.037645: Step [506]  train Loss : 0.723900, training accuracy :  0.8125
+2020-06-23 12:00:18.814393: Step [506]  val Loss : 1.338032, val accuracy :  0.675，val  precision :  0.62963,val recall:  0.85
+2020-06-23 12:00:19.115887: Step [507]  train Loss : 0.704665, training accuracy :  0.4375
+2020-06-23 12:00:23.834829: Step [507]  val Loss : 1.338360, val accuracy :  0.675，val  precision :  0.62963,val recall:  0.85
+2020-06-23 12:00:24.136497: Step [508]  train Loss : 0.719311, training accuracy :  0.8125
+2020-06-23 12:00:28.834763: Step [508]  val Loss : 1.337765, val accuracy :  0.675，val  precision :  0.62963,val recall:  0.85
+2020-06-23 12:00:29.136321: Step [509]  train Loss : 0.705269, training accuracy :  0.5625
+2020-06-23 12:00:33.857166: Step [509]  val Loss : 1.337955, val accuracy :  0.675，val  precision :  0.62963,val recall:  0.85
+2020-06-23 12:00:34.159200: Step [510]  train Loss : 0.703523, training accuracy :  0.5625
+2020-06-23 12:00:38.967411: Step [510]  val Loss : 1.338280, val accuracy :  0.68，val  precision :  0.634328,val recall:  0.85
+2020-06-23 12:00:39.267231: Step [511]  train Loss : 0.718718, training accuracy :  0.875
+2020-06-23 12:00:44.059344: Step [511]  val Loss : 1.339171, val accuracy :  0.68，val  precision :  0.634328,val recall:  0.85
+2020-06-23 12:00:44.358714: Step [512]  train Loss : 0.704531, training accuracy :  0.5625
+2020-06-23 12:00:49.115622: Step [512]  val Loss : 1.339775, val accuracy :  0.68，val  precision :  0.634328,val recall:  0.85
+2020-06-23 12:00:49.414817: Step [513]  train Loss : 0.704560, training accuracy :  0.75
+2020-06-23 12:00:54.115823: Step [513]  val Loss : 1.339983, val accuracy :  0.68，val  precision :  0.634328,val recall:  0.85
+2020-06-23 12:00:54.415303: Step [514]  train Loss : 0.703823, training accuracy :  0.6875
+2020-06-23 12:00:59.204826: Step [514]  val Loss : 1.340249, val accuracy :  0.68，val  precision :  0.634328,val recall:  0.85
+2020-06-23 12:00:59.505875: Step [515]  train Loss : 0.714445, training accuracy :  0.5625
+2020-06-23 12:01:04.301241: Step [515]  val Loss : 1.340670, val accuracy :  0.69，val  precision :  0.643939,val recall:  0.85
+2020-06-23 12:01:04.602449: Step [516]  train Loss : 0.706943, training accuracy :  0.75
+2020-06-23 12:01:09.380081: Step [516]  val Loss : 1.340729, val accuracy :  0.69，val  precision :  0.643939,val recall:  0.85
+2020-06-23 12:01:09.682659: Step [517]  train Loss : 0.703693, training accuracy :  0.8125
+2020-06-23 12:01:14.471061: Step [517]  val Loss : 1.341020, val accuracy :  0.69，val  precision :  0.643939,val recall:  0.85
+2020-06-23 12:01:14.771991: Step [518]  train Loss : 0.704933, training accuracy :  0.5625
+2020-06-23 12:01:19.516327: Step [518]  val Loss : 1.341205, val accuracy :  0.69，val  precision :  0.643939,val recall:  0.85
+2020-06-23 12:01:19.818396: Step [519]  train Loss : 0.704480, training accuracy :  0.5625
+2020-06-23 12:01:24.496691: Step [519]  val Loss : 1.341593, val accuracy :  0.69，val  precision :  0.643939,val recall:  0.85
+2020-06-23 12:01:24.798812: Step [520]  train Loss : 0.703450, training accuracy :  0.6875
+2020-06-23 12:01:29.597014: Step [520]  val Loss : 1.341886, val accuracy :  0.69，val  precision :  0.643939,val recall:  0.85
+2020-06-23 12:01:29.898436: Step [521]  train Loss : 0.703987, training accuracy :  0.5625
+2020-06-23 12:01:34.649789: Step [521]  val Loss : 1.342364, val accuracy :  0.695，val  precision :  0.648855,val recall:  0.85
+2020-06-23 12:01:34.952184: Step [522]  train Loss : 0.702862, training accuracy :  0.6875
+2020-06-23 12:01:39.731680: Step [522]  val Loss : 1.342782, val accuracy :  0.695，val  precision :  0.648855,val recall:  0.85
+2020-06-23 12:01:40.035470: Step [523]  train Loss : 0.703126, training accuracy :  0.625
+2020-06-23 12:01:44.794989: Step [523]  val Loss : 1.343197, val accuracy :  0.695，val  precision :  0.648855,val recall:  0.85
+2020-06-23 12:01:45.096801: Step [524]  train Loss : 0.732344, training accuracy :  0.875
+2020-06-23 12:01:49.849651: Step [524]  val Loss : 1.342774, val accuracy :  0.69，val  precision :  0.643939,val recall:  0.85
+2020-06-23 12:01:50.151820: Step [525]  train Loss : 0.704847, training accuracy :  0.625
+2020-06-23 12:01:54.922754: Step [525]  val Loss : 1.343027, val accuracy :  0.695，val  precision :  0.648855,val recall:  0.85
+2020-06-23 12:01:55.224751: Step [526]  train Loss : 0.708281, training accuracy :  0.875
+2020-06-23 12:02:00.009912: Step [526]  val Loss : 1.343915, val accuracy :  0.7，val  precision :  0.653846,val recall:  0.85
+2020-06-23 12:02:00.313661: Step [527]  train Loss : 0.704912, training accuracy :  0.625
+2020-06-23 12:02:05.071036: Step [527]  val Loss : 1.344357, val accuracy :  0.7，val  precision :  0.653846,val recall:  0.85
+2020-06-23 12:02:05.372373: Step [528]  train Loss : 0.814510, training accuracy :  0.75
+2020-06-23 12:02:10.155009: Step [528]  val Loss : 1.353396, val accuracy :  0.7，val  precision :  0.653846,val recall:  0.85
+2020-06-23 12:02:10.456805: Step [529]  train Loss : 0.709110, training accuracy :  0.8125
+2020-06-23 12:02:15.195550: Step [529]  val Loss : 1.353004, val accuracy :  0.7，val  precision :  0.653846,val recall:  0.85
+2020-06-23 12:02:15.499411: Step [530]  train Loss : 0.703080, training accuracy :  0.5
+2020-06-23 12:02:20.200623: Step [530]  val Loss : 1.353434, val accuracy :  0.7，val  precision :  0.653846,val recall:  0.85
+2020-06-23 12:02:20.503767: Step [531]  train Loss : 0.704830, training accuracy :  0.75
+2020-06-23 12:02:25.199940: Step [531]  val Loss : 1.353576, val accuracy :  0.7，val  precision :  0.653846,val recall:  0.85
+2020-06-23 12:02:25.502720: Step [532]  train Loss : 0.708942, training accuracy :  0.625
+2020-06-23 12:02:30.191088: Step [532]  val Loss : 1.353782, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:02:30.493531: Step [533]  train Loss : 0.710353, training accuracy :  0.6875
+2020-06-23 12:02:35.170038: Step [533]  val Loss : 1.354026, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:02:35.471482: Step [534]  train Loss : 0.704215, training accuracy :  0.75
+2020-06-23 12:02:40.154147: Step [534]  val Loss : 1.354224, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:02:40.456538: Step [535]  train Loss : 0.705844, training accuracy :  0.5625
+2020-06-23 12:02:45.130190: Step [535]  val Loss : 1.354924, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:02:45.432217: Step [536]  train Loss : 0.702929, training accuracy :  0.5625
+2020-06-23 12:02:50.112588: Step [536]  val Loss : 1.355323, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:02:50.415104: Step [537]  train Loss : 0.703951, training accuracy :  0.9375
+2020-06-23 12:02:55.100257: Step [537]  val Loss : 1.355611, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:02:55.402282: Step [538]  train Loss : 0.718916, training accuracy :  0.4375
+2020-06-23 12:03:00.090110: Step [538]  val Loss : 1.356746, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:03:00.391775: Step [539]  train Loss : 0.711551, training accuracy :  0.875
+2020-06-23 12:03:05.078903: Step [539]  val Loss : 1.356689, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:03:05.380648: Step [540]  train Loss : 0.703002, training accuracy :  0.8125
+2020-06-23 12:03:10.054904: Step [540]  val Loss : 1.357066, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:03:10.357157: Step [541]  train Loss : 0.704357, training accuracy :  0.875
+2020-06-23 12:03:15.038825: Step [541]  val Loss : 1.357400, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:03:15.341225: Step [542]  train Loss : 0.704508, training accuracy :  0.75
+2020-06-23 12:03:20.012041: Step [542]  val Loss : 1.357634, val accuracy :  0.715，val  precision :  0.669291,val recall:  0.85
+2020-06-23 12:03:20.314268: Step [543]  train Loss : 0.706368, training accuracy :  0.625
+2020-06-23 12:03:24.992281: Step [543]  val Loss : 1.358682, val accuracy :  0.715，val  precision :  0.669291,val recall:  0.85
+2020-06-23 12:03:25.294275: Step [544]  train Loss : 0.776244, training accuracy :  0.875
+2020-06-23 12:03:29.994326: Step [544]  val Loss : 1.357113, val accuracy :  0.715，val  precision :  0.664122,val recall:  0.87
+2020-06-23 12:03:30.296804: Step [545]  train Loss : 0.703858, training accuracy :  0.5
+2020-06-23 12:03:35.033370: Step [545]  val Loss : 1.357576, val accuracy :  0.715，val  precision :  0.664122,val recall:  0.87
+2020-06-23 12:03:35.335750: Step [546]  train Loss : 0.702995, training accuracy :  0.75
+2020-06-23 12:03:40.037935: Step [546]  val Loss : 1.357978, val accuracy :  0.715，val  precision :  0.664122,val recall:  0.87
+2020-06-23 12:03:40.340147: Step [547]  train Loss : 0.704235, training accuracy :  0.8125
+2020-06-23 12:03:45.092098: Step [547]  val Loss : 1.358225, val accuracy :  0.715，val  precision :  0.664122,val recall:  0.87
+2020-06-23 12:03:45.393076: Step [548]  train Loss : 0.706816, training accuracy :  0.6875
+2020-06-23 12:03:50.145654: Step [548]  val Loss : 1.358485, val accuracy :  0.715，val  precision :  0.664122,val recall:  0.87
+2020-06-23 12:03:50.447806: Step [549]  train Loss : 0.703504, training accuracy :  0.625
+2020-06-23 12:03:55.145291: Step [549]  val Loss : 1.358842, val accuracy :  0.715，val  precision :  0.664122,val recall:  0.87
+2020-06-23 12:03:55.447746: Step [550]  train Loss : 0.704124, training accuracy :  0.875
+2020-06-23 12:04:00.151718: Step [550]  val Loss : 1.359060, val accuracy :  0.715，val  precision :  0.664122,val recall:  0.87
+2020-06-23 12:04:00.453695: Step [551]  train Loss : 0.706068, training accuracy :  0.625
+2020-06-23 12:04:05.214095: Step [551]  val Loss : 1.359172, val accuracy :  0.715，val  precision :  0.664122,val recall:  0.87
+2020-06-23 12:04:05.517434: Step [552]  train Loss : 0.784120, training accuracy :  0.8125
+2020-06-23 12:04:10.293589: Step [552]  val Loss : 1.365170, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:04:10.594638: Step [553]  train Loss : 0.734544, training accuracy :  0.9375
+2020-06-23 12:04:15.356660: Step [553]  val Loss : 1.360255, val accuracy :  0.745，val  precision :  0.705882,val recall:  0.84
+2020-06-23 12:04:15.657157: Step [554]  train Loss : 0.704387, training accuracy :  0.75
+2020-06-23 12:04:20.437200: Step [554]  val Loss : 1.360498, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:04:20.738280: Step [555]  train Loss : 0.703059, training accuracy :  0.5625
+2020-06-23 12:04:25.543171: Step [555]  val Loss : 1.360919, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:04:25.845439: Step [556]  train Loss : 0.707497, training accuracy :  0.9375
+2020-06-23 12:04:30.673392: Step [556]  val Loss : 1.361067, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:04:30.975016: Step [557]  train Loss : 0.707170, training accuracy :  0.75
+2020-06-23 12:04:35.756663: Step [557]  val Loss : 1.361161, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:04:36.059171: Step [558]  train Loss : 0.708102, training accuracy :  0.6875
+2020-06-23 12:04:40.844899: Step [558]  val Loss : 1.361707, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:04:41.146540: Step [559]  train Loss : 0.703763, training accuracy :  0.6875
+2020-06-23 12:04:45.923190: Step [559]  val Loss : 1.362007, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:04:46.223963: Step [560]  train Loss : 0.704267, training accuracy :  0.75
+2020-06-23 12:04:50.909146: Step [560]  val Loss : 1.362289, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:04:51.211601: Step [561]  train Loss : 0.708444, training accuracy :  1
+2020-06-23 12:04:55.895013: Step [561]  val Loss : 1.362485, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:04:56.197097: Step [562]  train Loss : 0.716293, training accuracy :  0.625
+2020-06-23 12:05:00.916046: Step [562]  val Loss : 1.363729, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:05:01.217539: Step [563]  train Loss : 0.704099, training accuracy :  0.6875
+2020-06-23 12:05:06.010281: Step [563]  val Loss : 1.364050, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:05:06.310922: Step [564]  train Loss : 0.703084, training accuracy :  0.625
+2020-06-23 12:05:11.113346: Step [564]  val Loss : 1.364519, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:05:11.416047: Step [565]  train Loss : 0.704655, training accuracy :  0.75
+2020-06-23 12:05:16.215306: Step [565]  val Loss : 1.364735, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:05:16.517756: Step [566]  train Loss : 0.703371, training accuracy :  0.75
+2020-06-23 12:05:21.300741: Step [566]  val Loss : 1.365101, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:05:21.603068: Step [567]  train Loss : 0.713353, training accuracy :  0.875
+2020-06-23 12:05:26.414053: Step [567]  val Loss : 1.366045, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:05:26.715914: Step [568]  train Loss : 0.703302, training accuracy :  0.75
+2020-06-23 12:05:31.570105: Step [568]  val Loss : 1.366478, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:05:31.870925: Step [569]  train Loss : 0.703086, training accuracy :  0.75
+2020-06-23 12:05:36.632753: Step [569]  val Loss : 1.366913, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:05:36.932600: Step [570]  train Loss : 0.935067, training accuracy :  0.9375
+2020-06-23 12:05:41.657778: Step [570]  val Loss : 1.353354, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:05:41.956671: Step [571]  train Loss : 0.799993, training accuracy :  0.75
+2020-06-23 12:05:46.681140: Step [571]  val Loss : 1.354332, val accuracy :  0.71，val  precision :  0.664062,val recall:  0.85
+2020-06-23 12:05:46.980067: Step [572]  train Loss : 0.704678, training accuracy :  0.8125
+2020-06-23 12:05:51.653240: Step [572]  val Loss : 1.355155, val accuracy :  0.715，val  precision :  0.669291,val recall:  0.85
+2020-06-23 12:05:51.953743: Step [573]  train Loss : 0.715769, training accuracy :  0.625
+2020-06-23 12:05:56.650478: Step [573]  val Loss : 1.355884, val accuracy :  0.735，val  precision :  0.691057,val recall:  0.85
+2020-06-23 12:05:56.952833: Step [574]  train Loss : 0.704321, training accuracy :  0.625
+2020-06-23 12:06:01.643974: Step [574]  val Loss : 1.356454, val accuracy :  0.735，val  precision :  0.691057,val recall:  0.85
+2020-06-23 12:06:01.943901: Step [575]  train Loss : 0.703353, training accuracy :  0.6875
+2020-06-23 12:06:06.682987: Step [575]  val Loss : 1.356888, val accuracy :  0.735，val  precision :  0.691057,val recall:  0.85
+2020-06-23 12:06:06.984681: Step [576]  train Loss : 0.732835, training accuracy :  0.625
+2020-06-23 12:06:11.809709: Step [576]  val Loss : 1.358180, val accuracy :  0.74，val  precision :  0.70339,val recall:  0.83
+2020-06-23 12:06:12.109447: Step [577]  train Loss : 0.703812, training accuracy :  0.75
+2020-06-23 12:06:16.951829: Step [577]  val Loss : 1.358599, val accuracy :  0.74，val  precision :  0.70339,val recall:  0.83
+2020-06-23 12:06:17.252183: Step [578]  train Loss : 0.704845, training accuracy :  0.875
+2020-06-23 12:06:22.000339: Step [578]  val Loss : 1.358772, val accuracy :  0.74，val  precision :  0.70339,val recall:  0.83
+2020-06-23 12:06:22.300472: Step [579]  train Loss : 0.703112, training accuracy :  0.625
+2020-06-23 12:06:27.178214: Step [579]  val Loss : 1.359185, val accuracy :  0.74，val  precision :  0.70339,val recall:  0.83
+2020-06-23 12:06:27.480701: Step [580]  train Loss : 0.703464, training accuracy :  0.6875
+2020-06-23 12:06:32.269683: Step [580]  val Loss : 1.359653, val accuracy :  0.74，val  precision :  0.70339,val recall:  0.83
+2020-06-23 12:06:32.568872: Step [581]  train Loss : 0.776138, training accuracy :  0.8125
+2020-06-23 12:06:37.278286: Step [581]  val Loss : 1.351617, val accuracy :  0.705，val  precision :  0.658915,val recall:  0.85
+2020-06-23 12:06:37.577385: Step [582]  train Loss : 0.714391, training accuracy :  0.6875
+2020-06-23 12:06:42.356290: Step [582]  val Loss : 1.352598, val accuracy :  0.71，val  precision :  0.664062,val recall:  0.85
+2020-06-23 12:06:42.658303: Step [583]  train Loss : 0.707591, training accuracy :  0.8125
+2020-06-23 12:06:47.331226: Step [583]  val Loss : 1.352992, val accuracy :  0.71，val  precision :  0.664062,val recall:  0.85
+2020-06-23 12:06:47.632767: Step [584]  train Loss : 0.717224, training accuracy :  0.625
+2020-06-23 12:06:52.339860: Step [584]  val Loss : 1.353349, val accuracy :  0.71，val  precision :  0.664062,val recall:  0.85
+2020-06-23 12:06:52.642350: Step [585]  train Loss : 0.704397, training accuracy :  0.875
+2020-06-23 12:06:57.444152: Step [585]  val Loss : 1.353732, val accuracy :  0.71，val  precision :  0.664062,val recall:  0.85
+2020-06-23 12:06:57.746911: Step [586]  train Loss : 0.703070, training accuracy :  0.75
+2020-06-23 12:07:02.506954: Step [586]  val Loss : 1.354236, val accuracy :  0.72，val  precision :  0.674603,val recall:  0.85
+2020-06-23 12:07:02.809607: Step [587]  train Loss : 0.712822, training accuracy :  0.5
+2020-06-23 12:07:07.606261: Step [587]  val Loss : 1.355241, val accuracy :  0.73，val  precision :  0.685484,val recall:  0.85
+2020-06-23 12:07:07.905947: Step [588]  train Loss : 0.707899, training accuracy :  0.6875
+2020-06-23 12:07:12.685867: Step [588]  val Loss : 1.355791, val accuracy :  0.74，val  precision :  0.696721,val recall:  0.85
+2020-06-23 12:07:12.987807: Step [589]  train Loss : 0.713654, training accuracy :  0.875
+2020-06-23 12:07:17.775211: Step [589]  val Loss : 1.355131, val accuracy :  0.74，val  precision :  0.696721,val recall:  0.85
+2020-06-23 12:07:18.078592: Step [590]  train Loss : 0.705269, training accuracy :  0.875
+2020-06-23 12:07:22.887607: Step [590]  val Loss : 1.355562, val accuracy :  0.735，val  precision :  0.694215,val recall:  0.84
+2020-06-23 12:07:23.191764: Step [591]  train Loss : 0.705337, training accuracy :  0.8125
+2020-06-23 12:07:27.888985: Step [591]  val Loss : 1.356284, val accuracy :  0.735，val  precision :  0.694215,val recall:  0.84
+2020-06-23 12:07:28.191305: Step [592]  train Loss : 0.713299, training accuracy :  0.6875
+2020-06-23 12:07:32.950355: Step [592]  val Loss : 1.357009, val accuracy :  0.735，val  precision :  0.694215,val recall:  0.84
+2020-06-23 12:07:33.251560: Step [593]  train Loss : 0.708769, training accuracy :  0.875
+2020-06-23 12:07:38.002182: Step [593]  val Loss : 1.357522, val accuracy :  0.735，val  precision :  0.694215,val recall:  0.84
+2020-06-23 12:07:38.304342: Step [594]  train Loss : 0.738357, training accuracy :  0.6875
+2020-06-23 12:07:43.090128: Step [594]  val Loss : 1.360015, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:07:43.391502: Step [595]  train Loss : 0.708958, training accuracy :  0.75
+2020-06-23 12:07:48.180810: Step [595]  val Loss : 1.360395, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:07:48.486673: Step [596]  train Loss : 0.704848, training accuracy :  0.875
+2020-06-23 12:07:53.262659: Step [596]  val Loss : 1.360825, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:07:53.566649: Step [597]  train Loss : 0.707759, training accuracy :  0.75
+2020-06-23 12:07:58.355374: Step [597]  val Loss : 1.361411, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:07:58.656001: Step [598]  train Loss : 0.703329, training accuracy :  0.625
+2020-06-23 12:08:03.445454: Step [598]  val Loss : 1.362020, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:08:03.748043: Step [599]  train Loss : 0.718023, training accuracy :  0.5625
+2020-06-23 12:08:08.557776: Step [599]  val Loss : 1.364243, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:08:08.861241: Step [600]  train Loss : 0.703763, training accuracy :  0.625
+2020-06-23 12:08:13.651725: Step [600]  val Loss : 1.364849, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:08:13.952838: Step [601]  train Loss : 0.710536, training accuracy :  0.75
+2020-06-23 12:08:18.668413: Step [601]  val Loss : 1.365785, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:08:18.971450: Step [602]  train Loss : 0.706021, training accuracy :  0.5625
+2020-06-23 12:08:23.654717: Step [602]  val Loss : 1.366573, val accuracy :  0.74，val  precision :  0.710526,val recall:  0.81
+2020-06-23 12:08:23.956567: Step [603]  train Loss : 0.705190, training accuracy :  0.8125
+2020-06-23 12:08:28.675352: Step [603]  val Loss : 1.367080, val accuracy :  0.725，val  precision :  0.702703,val recall:  0.78
+2020-06-23 12:08:28.976930: Step [604]  train Loss : 0.761667, training accuracy :  0.9375
+2020-06-23 12:08:33.731118: Step [604]  val Loss : 1.365188, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:08:34.030160: Step [605]  train Loss : 0.703675, training accuracy :  0.875
+2020-06-23 12:08:38.743264: Step [605]  val Loss : 1.365830, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:08:39.042406: Step [606]  train Loss : 0.703887, training accuracy :  0.8125
+2020-06-23 12:08:43.760624: Step [606]  val Loss : 1.366437, val accuracy :  0.745，val  precision :  0.709402,val recall:  0.83
+2020-06-23 12:08:44.060762: Step [607]  train Loss : 0.703209, training accuracy :  0.9375
+2020-06-23 12:08:48.803488: Step [607]  val Loss : 1.367043, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:08:49.104051: Step [608]  train Loss : 0.704014, training accuracy :  0.75
+2020-06-23 12:08:53.883403: Step [608]  val Loss : 1.367716, val accuracy :  0.75，val  precision :  0.715517,val recall:  0.83
+2020-06-23 12:08:54.183298: Step [609]  train Loss : 0.712131, training accuracy :  0.5625
+2020-06-23 12:08:58.911093: Step [609]  val Loss : 1.368517, val accuracy :  0.74，val  precision :  0.710526,val recall:  0.81
+2020-06-23 12:08:59.210808: Step [610]  train Loss : 0.703732, training accuracy :  0.8125
+2020-06-23 12:09:03.959967: Step [610]  val Loss : 1.369095, val accuracy :  0.715，val  precision :  0.697248,val recall:  0.76
+2020-06-23 12:09:04.261693: Step [611]  train Loss : 0.709787, training accuracy :  0.6875
+2020-06-23 12:09:09.046912: Step [611]  val Loss : 1.370072, val accuracy :  0.685，val  precision :  0.679612,val recall:  0.7
+2020-06-23 12:09:09.347572: Step [612]  train Loss : 0.703129, training accuracy :  0.6875
+2020-06-23 12:09:14.100421: Step [612]  val Loss : 1.370637, val accuracy :  0.68，val  precision :  0.676471,val recall:  0.69
+2020-06-23 12:09:14.399536: Step [613]  train Loss : 0.727165, training accuracy :  0.75
+2020-06-23 12:09:19.106318: Step [613]  val Loss : 1.373307, val accuracy :  0.665，val  precision :  0.779661,val recall:  0.46
+2020-06-23 12:09:19.408090: Step [614]  train Loss : 0.703888, training accuracy :  0.4375
+2020-06-23 12:09:24.144769: Step [614]  val Loss : 1.373855, val accuracy :  0.63，val  precision :  0.75,val recall:  0.39
+2020-06-23 12:09:24.445580: Step [615]  train Loss : 0.703204, training accuracy :  0.5625
+2020-06-23 12:09:29.232154: Step [615]  val Loss : 1.374313, val accuracy :  0.63，val  precision :  0.770833,val recall:  0.37
+2020-06-23 12:09:29.531502: Step [616]  train Loss : 0.703133, training accuracy :  0.625
+2020-06-23 12:09:34.244262: Step [616]  val Loss : 1.374777, val accuracy :  0.65，val  precision :  0.840909,val recall:  0.37
+2020-06-23 12:09:34.544672: Step [617]  train Loss : 0.703776, training accuracy :  0.625
+2020-06-23 12:09:39.272097: Step [617]  val Loss : 1.375228, val accuracy :  0.645，val  precision :  0.837209,val recall:  0.36
+2020-06-23 12:09:39.573249: Step [618]  train Loss : 0.711948, training accuracy :  0.4375
+2020-06-23 12:09:44.322546: Step [618]  val Loss : 1.375540, val accuracy :  0.65，val  precision :  0.857143,val recall:  0.36
+2020-06-23 12:09:44.623132: Step [619]  train Loss : 0.707856, training accuracy :  0.5
+2020-06-23 12:09:49.323167: Step [619]  val Loss : 1.376266, val accuracy :  0.645，val  precision :  0.853659,val recall:  0.35
+2020-06-23 12:09:49.623357: Step [620]  train Loss : 0.703290, training accuracy :  0.8125
+2020-06-23 12:09:54.325935: Step [620]  val Loss : 1.376655, val accuracy :  0.625，val  precision :  0.857143,val recall:  0.3
+2020-06-23 12:09:54.626628: Step [621]  train Loss : 0.703447, training accuracy :  0.5
+2020-06-23 12:09:59.415130: Step [621]  val Loss : 1.377093, val accuracy :  0.615，val  precision :  0.870968,val recall:  0.27
+2020-06-23 12:09:59.717179: Step [622]  train Loss : 0.703652, training accuracy :  0.5625
+2020-06-23 12:10:04.491092: Step [622]  val Loss : 1.377529, val accuracy :  0.585，val  precision :  0.904762,val recall:  0.19
+2020-06-23 12:10:04.790452: Step [623]  train Loss : 0.705706, training accuracy :  0.4375
+2020-06-23 12:10:09.554910: Step [623]  val Loss : 1.378029, val accuracy :  0.555，val  precision :  0.866667,val recall:  0.13
+2020-06-23 12:10:09.856362: Step [624]  train Loss : 0.712934, training accuracy :  0.75
+2020-06-23 12:10:14.607956: Step [624]  val Loss : 1.378682, val accuracy :  0.53，val  precision :  0.875,val recall:  0.07
+2020-06-23 12:10:14.908913: Step [625]  train Loss : 0.706828, training accuracy :  0.75
+2020-06-23 12:10:19.693630: Step [625]  val Loss : 1.379040, val accuracy :  0.535，val  precision :  1,val recall:  0.07
+2020-06-23 12:10:19.994236: Step [626]  train Loss : 0.703234, training accuracy :  0.4375
+2020-06-23 12:10:24.777247: Step [626]  val Loss : 1.379492, val accuracy :  0.525，val  precision :  1,val recall:  0.05
+2020-06-23 12:10:25.079555: Step [627]  train Loss : 0.704192, training accuracy :  0.625
+2020-06-23 12:10:29.910180: Step [627]  val Loss : 1.379850, val accuracy :  0.525，val  precision :  1,val recall:  0.05
+2020-06-23 12:10:30.212981: Step [628]  train Loss : 0.703697, training accuracy :  0.5625
+2020-06-23 12:10:35.020378: Step [628]  val Loss : 1.380270, val accuracy :  0.525，val  precision :  1,val recall:  0.05
+2020-06-23 12:10:35.322424: Step [629]  train Loss : 0.703554, training accuracy :  0.625
+2020-06-23 12:10:40.119891: Step [629]  val Loss : 1.380720, val accuracy :  0.525，val  precision :  1,val recall:  0.05
+2020-06-23 12:10:40.419437: Step [630]  train Loss : 0.704571, training accuracy :  0.4375
+2020-06-23 12:10:45.157279: Step [630]  val Loss : 1.381081, val accuracy :  0.525，val  precision :  1,val recall:  0.05
+2020-06-23 12:10:45.458439: Step [631]  train Loss : 0.703602, training accuracy :  0.5625
+2020-06-23 12:10:50.267038: Step [631]  val Loss : 1.381508, val accuracy :  0.525，val  precision :  1,val recall:  0.05
+2020-06-23 12:10:50.571993: Step [632]  train Loss : 0.707452, training accuracy :  0.625
+2020-06-23 12:10:55.320269: Step [632]  val Loss : 1.381711, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:10:55.621180: Step [633]  train Loss : 0.707254, training accuracy :  0.5
+2020-06-23 12:11:00.338191: Step [633]  val Loss : 1.382441, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:00.637586: Step [634]  train Loss : 0.704597, training accuracy :  0.5625
+2020-06-23 12:11:05.349423: Step [634]  val Loss : 1.382902, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:05.648822: Step [635]  train Loss : 0.714008, training accuracy :  0.3125
+2020-06-23 12:11:10.379321: Step [635]  val Loss : 1.383411, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:10.680970: Step [636]  train Loss : 0.703127, training accuracy :  0.4375
+2020-06-23 12:11:15.464973: Step [636]  val Loss : 1.383740, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:15.768145: Step [637]  train Loss : 0.703347, training accuracy :  0.625
+2020-06-23 12:11:20.540887: Step [637]  val Loss : 1.384067, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:20.842980: Step [638]  train Loss : 0.711254, training accuracy :  0.6875
+2020-06-23 12:11:25.547953: Step [638]  val Loss : 1.384400, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:25.849238: Step [639]  train Loss : 0.705873, training accuracy :  0.625
+2020-06-23 12:11:30.612090: Step [639]  val Loss : 1.384686, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:30.913673: Step [640]  train Loss : 0.708347, training accuracy :  0.625
+2020-06-23 12:11:35.726035: Step [640]  val Loss : 1.385211, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:36.025622: Step [641]  train Loss : 0.736272, training accuracy :  0.1875
+2020-06-23 12:11:40.821401: Step [641]  val Loss : 1.386002, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:41.123369: Step [642]  train Loss : 0.706011, training accuracy :  0.4375
+2020-06-23 12:11:45.905440: Step [642]  val Loss : 1.386184, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:46.205877: Step [643]  train Loss : 0.702840, training accuracy :  0.4375
+2020-06-23 12:11:50.955070: Step [643]  val Loss : 1.386497, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:51.258142: Step [644]  train Loss : 0.703715, training accuracy :  0.4375
+2020-06-23 12:11:56.039794: Step [644]  val Loss : 1.386817, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:11:56.342342: Step [645]  train Loss : 0.707221, training accuracy :  0.375
+2020-06-23 12:12:01.051570: Step [645]  val Loss : 1.386993, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:12:01.354226: Step [646]  train Loss : 0.704649, training accuracy :  0.625
+2020-06-23 12:12:06.121678: Step [646]  val Loss : 1.387313, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:12:06.421968: Step [647]  train Loss : 0.707776, training accuracy :  0.3125
+2020-06-23 12:12:11.214082: Step [647]  val Loss : 1.387543, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:12:11.515235: Step [648]  train Loss : 0.705366, training accuracy :  0.3125
+2020-06-23 12:12:16.304776: Step [648]  val Loss : 1.387793, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:12:16.605448: Step [649]  train Loss : 0.703334, training accuracy :  0.5
+2020-06-23 12:12:21.380231: Step [649]  val Loss : 1.388116, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:12:21.681844: Step [650]  train Loss : 0.708869, training accuracy :  0.375
+2020-06-23 12:12:26.481660: Step [650]  val Loss : 1.388333, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:12:26.783583: Step [651]  train Loss : 0.702879, training accuracy :  0.4375
+2020-06-23 12:12:31.572857: Step [651]  val Loss : 1.388639, val accuracy :  0.52，val  precision :  1,val recall:  0.04
+2020-06-23 12:12:31.874518: Step [652]  train Loss : 1.642969, training accuracy :  0.9375
+2020-06-23 12:12:36.654569: Step [652]  val Loss : 1.420739, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:12:36.956045: Step [653]  train Loss : 1.761521, training accuracy :  0.5625
+2020-06-23 12:12:41.741815: Step [653]  val Loss : 1.387750, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 12:12:42.043725: Step [654]  train Loss : 1.620488, training accuracy :  0.8125
+2020-06-23 12:12:46.730699: Step [654]  val Loss : 1.399494, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:12:47.032638: Step [655]  train Loss : 0.835169, training accuracy :  0.625
+2020-06-23 12:12:51.703330: Step [655]  val Loss : 1.404306, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:12:52.005520: Step [656]  train Loss : 0.840598, training accuracy :  0.4375
+2020-06-23 12:12:56.715064: Step [656]  val Loss : 1.400036, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:12:57.015757: Step [657]  train Loss : 0.705605, training accuracy :  0.625
+2020-06-23 12:13:01.801255: Step [657]  val Loss : 1.400436, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:02.103956: Step [658]  train Loss : 0.840615, training accuracy :  0.25
+2020-06-23 12:13:06.895973: Step [658]  val Loss : 1.399107, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:07.199265: Step [659]  train Loss : 0.704077, training accuracy :  0.5
+2020-06-23 12:13:11.966723: Step [659]  val Loss : 1.399319, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:12.267834: Step [660]  train Loss : 0.729977, training accuracy :  0.625
+2020-06-23 12:13:16.958008: Step [660]  val Loss : 1.400234, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:17.260524: Step [661]  train Loss : 0.704533, training accuracy :  0.5
+2020-06-23 12:13:22.021545: Step [661]  val Loss : 1.400418, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:22.322038: Step [662]  train Loss : 0.704640, training accuracy :  0.5
+2020-06-23 12:13:27.120478: Step [662]  val Loss : 1.400571, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:27.422555: Step [663]  train Loss : 0.704134, training accuracy :  0.5
+2020-06-23 12:13:32.237368: Step [663]  val Loss : 1.400735, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:32.538682: Step [664]  train Loss : 0.776313, training accuracy :  0.375
+2020-06-23 12:13:37.279943: Step [664]  val Loss : 1.398104, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:37.580398: Step [665]  train Loss : 0.707158, training accuracy :  0.4375
+2020-06-23 12:13:42.353625: Step [665]  val Loss : 1.398287, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:42.657442: Step [666]  train Loss : 0.824868, training accuracy :  0.8125
+2020-06-23 12:13:47.440599: Step [666]  val Loss : 1.405583, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:47.742144: Step [667]  train Loss : 0.709983, training accuracy :  0.5625
+2020-06-23 12:13:52.498096: Step [667]  val Loss : 1.405648, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:52.800947: Step [668]  train Loss : 0.715511, training accuracy :  0.4375
+2020-06-23 12:13:57.548236: Step [668]  val Loss : 1.405198, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:13:57.851137: Step [669]  train Loss : 0.705145, training accuracy :  0.6875
+2020-06-23 12:14:02.563755: Step [669]  val Loss : 1.405410, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:14:02.866260: Step [670]  train Loss : 0.704070, training accuracy :  0.5625
+2020-06-23 12:14:07.594735: Step [670]  val Loss : 1.405602, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:14:07.898189: Step [671]  train Loss : 0.704353, training accuracy :  0.625
+2020-06-23 12:14:12.657778: Step [671]  val Loss : 1.405802, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:14:12.964353: Step [672]  train Loss : 0.802247, training accuracy :  0.5625
+2020-06-23 12:14:17.723017: Step [672]  val Loss : 1.404474, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:14:18.024877: Step [673]  train Loss : 0.707059, training accuracy :  0.6875
+2020-06-23 12:14:22.783656: Step [673]  val Loss : 1.404808, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:14:23.085809: Step [674]  train Loss : 1.285574, training accuracy :  0.4375
+2020-06-23 12:14:27.832325: Step [674]  val Loss : 1.400520, val accuracy :  0.51，val  precision :  1,val recall:  0.02
+2020-06-23 12:14:28.133653: Step [675]  train Loss : 0.764552, training accuracy :  0.5
+2020-06-23 12:14:32.883421: Step [675]  val Loss : 1.402489, val accuracy :  0.395，val  precision :  0.294118,val recall:  0.15
+2020-06-23 12:14:33.183907: Step [676]  train Loss : 0.708020, training accuracy :  0.5625
+2020-06-23 12:14:37.950008: Step [676]  val Loss : 1.402460, val accuracy :  0.405，val  precision :  0.306122,val recall:  0.15
+2020-06-23 12:14:38.252555: Step [677]  train Loss : 0.879010, training accuracy :  0.5625
+2020-06-23 12:14:42.988354: Step [677]  val Loss : 1.398582, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:14:43.289178: Step [678]  train Loss : 0.710281, training accuracy :  0.5
+2020-06-23 12:14:48.063827: Step [678]  val Loss : 1.398656, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:14:48.369486: Step [679]  train Loss : 0.706784, training accuracy :  0.3125
+2020-06-23 12:14:53.155081: Step [679]  val Loss : 1.398668, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:14:53.460580: Step [680]  train Loss : 0.703724, training accuracy :  0.4375
+2020-06-23 12:14:58.234050: Step [680]  val Loss : 1.398804, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:14:58.536715: Step [681]  train Loss : 0.711727, training accuracy :  0.5625
+2020-06-23 12:15:03.243179: Step [681]  val Loss : 1.399305, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:15:03.542220: Step [682]  train Loss : 0.714034, training accuracy :  0.25
+2020-06-23 12:15:08.248815: Step [682]  val Loss : 1.398970, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:15:08.550949: Step [683]  train Loss : 0.962489, training accuracy :  0.6875
+2020-06-23 12:15:13.332506: Step [683]  val Loss : 1.401650, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:15:13.634561: Step [684]  train Loss : 0.741473, training accuracy :  0.3125
+2020-06-23 12:15:18.423503: Step [684]  val Loss : 1.400867, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:15:18.729848: Step [685]  train Loss : 0.711006, training accuracy :  0.625
+2020-06-23 12:15:23.484580: Step [685]  val Loss : 1.401063, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:15:23.786064: Step [686]  train Loss : 0.704672, training accuracy :  0.5625
+2020-06-23 12:15:28.596007: Step [686]  val Loss : 1.401216, val accuracy :  0.5，val  precision :  0,val recall:  0
+2020-06-23 12:15:28.895587: Step [687]  train Loss : 0.705466, training accuracy :  0.4375
+2020-06-23 12:15:33.684930: Step [687]  val Loss : 1.401167, val accuracy :  0.5，val  precision :  0,val recall:  0
